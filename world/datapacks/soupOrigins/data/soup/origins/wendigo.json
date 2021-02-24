@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:strong_arms",
+		"origins:natural_armor",
+		"origins:strong_arms_break_speed",
+		"origins:scare_creepers",
+		"origins:extra_reach",
+		"origins:climbing",
+		"origins:cat_vision",
+		"origins:light_armor",
+		"origins:burn_in_daylight",
+		"origins:water_vulnerability",
+		"origins:fragile"
+	],
+	"icon": "minecraft:wither_skeleton_skull",
+	"impact": 3,
+	"name": "Wendigo",
+	"description": "A wendigo is a creature of the night, some say they are born of humans who eat human meat, others say they came from Satan himself."
+}

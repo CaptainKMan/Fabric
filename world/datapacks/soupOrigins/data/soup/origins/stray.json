@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"origins:elytra",
+		"origins:launch_into_air",
+		"origins:light_armor",
+		"origins:more_kinetic_damage"
+	],
+	"icon": "minecraft:bone_block",
+	"impact": 2,
+	"name": "Cruel Angel",
+	"description": "It is said every year a stray comes into existance and has one goal and will leave when that goal is completed."
+}

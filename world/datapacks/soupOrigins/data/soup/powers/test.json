@@ -1,0 +1,15 @@
+{
+	"type": "origins:active_self",
+	"entity_action": {
+		  "type": "origins:apply_effect",
+		"effect": {
+		"effect": "minecraft:strenght",
+		"duration": 400,
+		"amplifier": 2
+	}
+	"cooldown:
+	"hud_render": {
+		"should_render": true,
+		"bar_index": 2
+	}
+}

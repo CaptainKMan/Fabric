@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "origins": [
+  "soup:dolphinian",
+  "soup:toy",
+  "soup:wraith",
+  "soup:kappa",
+  "soup:stray",
+  "soup:gnome",
+  "soup:wendigo"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:water_vulnerability",
+		"origins:strong_arms_break_speed",
+		"origins:light_armor",
+		"origins:natural_armor",
+		"origins:strong_arms",
+		"origins:cat_vision",
+		"origins:damage_from_snowballs"
+	],
+	"icon": "minecraft:creeper_head",
+	"impact": 2,
+	"name": "Robotic Toy",
+	"description": "A toy made by the great Dr.Newton"
+}

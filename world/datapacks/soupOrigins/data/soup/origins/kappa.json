@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:arthropod",
+		"origins:hunger_over_time",
+		"origins:pumpkin_hate",
+		"origins:light_armor",
+		"origins:climbing",
+		"origins:swim_speed",
+		"origins:throw_ender_pearl",
+		"origins:fall_immunity",
+	],
+	"icon": "minecraft:scute",
+	"impact": 1,
+	"name": "Gnome",
+	"description": "Gnomes are born of spiders and humans, they are hated among the world but have adapted to hide from the monsters that want them dead."
+}

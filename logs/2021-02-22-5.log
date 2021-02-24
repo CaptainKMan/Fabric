@@ -1,0 +1,141 @@
+[21:26:33] [main/INFO]: Loading for game Minecraft 1.16.5
+[21:26:34] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[21:26:34] [ForkJoinPool-1-worker-7/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[21:26:34] [main/INFO]: [FabricLoader] Loading 68 mods: fabric-renderer-api-v1@0.4.1+ca58154a7d, fallflyinglib@1.1.0, fabric-keybindings-v0@0.2.1+ca58154a7d, cardinal-components-block@2.7.12, fabricloader@0.11.1, fabric-structure-api-v1@1.1.4+ca58154a7d, lithium@0.6.3, fabric-containers-v0@0.1.11+9354966b7d, fabric-object-builder-api-v1@1.9.4+9354966b7d, fabric-dimensions-v1@2.0.6+9354966b7d, java@11, fabric-game-rule-api-v1@1.0.6+ca58154a7d, fabric-api-base@0.2.1+9354966b7d, fabric-rendering-data-attachment-v1@0.1.5+ca58154a7d, fabric-textures-v0@1.0.6+ca58154a7d, cardinal-components-item@2.7.12, fabric-rendering-fluids-v1@0.1.13+ca58154a7d, reach-entity-attributes@1.0.1, cardinal-components-level@2.7.12, playerabilitylib@1.2.1, fabric-blockrenderlayer-v1@1.1.5+ca58154a7d, fabric-lifecycle-events-v1@1.2.1+ca58154a7d, cardinal-components-chunk@2.7.12, fabric-renderer-registries-v1@2.2.1+ca58154a7d, cardinal-components-util@2.7.12, fabric-loot-tables-v1@1.0.2+ca58154a7d, cardinal-components-scoreboard@2.7.12, fabric@0.30.3+1.16, fabric-particles-v1@0.2.4+ca58154a7d, fabric-networking-v0@0.3.2+ca58154a7d, fabric-screen-handler-api-v1@1.1.5+9354966b7d, fabric-networking-blockentity-v0@0.2.8+ca58154a7d, minecraft@1.16.5, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.10+ca58154a7d, phosphor@0.7.1+build.11, fabric-screen-api-v1@1.0.0+c045166c7d, fabric-tool-attribute-api-v1@1.2.6+ca58154a7d, fabric-renderer-indigo@0.4.4+ca58154a7d, angerable-patch@1.0.0-1.16.1, io_github_onyxstudios_cardinal-components-api@2.7.9, fabric-item-api-v1@1.2.1+ca58154a7d, fabric-events-interaction-v0@0.4.2+ca58154a7d, fabric-crash-report-info-v1@0.1.3+ca58154a7d, identity@1.11.8-beta-1.16.5, cardinal-components@2.7.12, origins@0.4.7, fabric-entity-events-v1@1.0.3+ca58154a7d, fabric-rendering-v0@1.1.2+ca58154a7d, fabric-rendering-v1@1.5.1+ca58154a7d, fabric-key-binding-api-v1@1.0.4+9354966b7d, cloth-config2@4.8.1, fabric-resource-loader-v0@0.4.2+ca58154a7d, autoconfig1u@3.2.2, fabric-content-registries-v0@0.2.1+ca58154a7d, fabric-tag-extensions-v0@1.1.1+ca58154a7d, cardinal-components-world@2.7.12, fabric-biome-api-v1@3.1.1+ca58154a7d, cardinal-components-entity@2.7.12, fabric-registry-sync-v0@0.7.4+ca58154a7d, fabric-commands-v0@0.2.2+ca58154a7d, cardinal-components-base@2.7.12, fabric-mining-levels-v0@0.1.3+ca58154a7d, fabric-networking-api-v1@1.0.1+ca58154a7d, fabric-events-lifecycle-v0@0.2.1+ca58154a7d, fabric-models-v0@0.2.1+ca58154a7d, fabric-item-groups-v0@0.2.3+ca58154a7d, fabric-object-builders-v0@0.7.2+ca58154a7d
+[21:26:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Caleb/Desktop/Fabric/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[21:26:40] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-a[21:26:53] [main/INFO]: Origins is initializing. Have fun!
+[21:26:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:26:57] [main/WARN]: Missing data pack file/soupOrigins
+[21:26:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:58] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Fabric Tool Attribute API (v1), Identity, Origins), soupOrigins.zip
+[21:27:02] [Worker-Main-5/INFO]: Loaded 7 recipes
+[21:27:03] [Worker-Main-5/INFO]: Loaded 927 advancements
+[21:27:03] [Worker-Main-5/INFO]: Finished loading powers from data files. Registry contains 54 powers.
+[21:27:03] [Worker-Main-5/INFO]: Finished loading origins from data files. Registry contains 18 or[21:27:03] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/class_1297;)V
+[21:27:03] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_13[21:27:05] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 6.387 ms
+[21:27:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:27:05] [Server thread/INFO]: Loading properties
+[21:27:06] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:06] [Server thread/INFO]: Generating keypair
+[21:27:06] [Server thread/INFO]: Starting Minecraft server on 192.168.2.17:25565
+[21:27:06] [Server thread/INFO]: Using default channel type
+[21:27:07] [Server thread/INFO]: Preparing level "world"
+[21:27:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:13] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:27:14] [Server thread/INFO]: Preparing spawn area: 87%
+[21:27:14] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[21:27:15] [Server thread/INFO]: Time elapsed: 6392 ms
+[21:27:15] [Server thread/INFO]: Done (7.548s)! For help, type "help"
+[21:29:24] [User Authenticator #1/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[21:29:24] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56476] logged in with entity id 124 at (6907.472758566208, 130.0, 5055.00574455325)
+[21:29:24] [Server thread/INFO]: Captain_KMan joined the game
+[21:30:07] [Server thread/INFO]: Player Captain_KMan chose Origin: soup:gnome, for layer: origins:origin
+[21:31:49] [Server thread/INFO]: Captain_KMan was blown up by Creeper
+[21:32:43] [Server thread/INFO]: Made Captain_KMan a server operator
+[21:32:53] [Server thread/INFO]: [Captain_KMan: Set the time to 1000]
+[21:32:57] [Server thread/INFO]: [Captain_KMan: Set the weather to clear]
+[21:35:59] [Server thread/INFO]: [Captain_KMan: Gave 1 [Compass] to Captain_KMan]
+[21:37:43] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 6868.5, 82.0, 4600.5]
+[21:37:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:37:55] [Server thread/INFO]: Captain_KMan suffocated in a wall
+[21:38:03] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 6868.5, 5000.0, 4600.5]
+[21:39:04] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 6868.5, 500.0, 4600.5]
+[21:39:21] [Server thread/INFO]: Captain_KMan fell out of the world
+[21:39:21] [Server thread/INFO]: [Captain_KMan: Killed Captain_KMan]
+[21:40:14] [User Authenticator #2/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[21:40:15] [Server thread/WARN]: Origin with id origins:arachnid is not in layer origins:origin and is not special, but was found on josephbres, setting to EMPTY.
+[21:40:15] [Server thread/INFO]: josephbres[/192.168.2.248:56480] logged in with entity id 1395 at (6902.929703090751, 134.0, 5051.927344002329)
+[21:40:15] [Server thread/INFO]: josephbres joined the game
+[21:40:16] [Server thread/INFO]: Captain_KMan has made the advancement [Monster Hunter]
+[21:40:20] [Server thread/INFO]: Player josephbres chose Origin: soup:dolphinian, for layer: origins:origin
+[21:40:25] [Server thread/INFO]: <josephbres> VC?
+[21:40:40] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[21:40:40] [Server thread/INFO]: Captain_KMan left the game
+[21:41:02] [Server thread/INFO]: josephbres fell out of the world
+[21:41:02] [Server thread/INFO]: [josephbres: Killed josephbres]
+[21:41:15] [User Authenticator #3/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[21:41:15] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56482] logged in with entity id 1486 at (6919.800296218487, 139.0, 5042.404032577914)
+[21:41:15] [Server thread/INFO]: Captain_KMan joined the game
+[21:41:52] [Server thread/INFO]: Captain_KMan was slain by Zombie
+[21:42:44] [Server thread/INFO]: Captain_KMan was slain by Zombie
+[21:43:23] [Server thread/INFO]: death.attack.hurt_by_water
+[21:43:49] [Server thread/INFO]: Captain_KMan was slain by Zombie
+[21:45:49] [Server thread/INFO]: Captain_KMan was shot by Stray
+[21:47:08] [Server thread/INFO]: Captain_KMan has made the advancement [A Seedy Place]
+[21:47:54] [Server thread/INFO]: josephbres has made the advancement [Stone Age]
+[21:48:32] [Server thread/INFO]: Captain_KMan was slain by Spider
+[21:48:51] [Server thread/INFO]: [josephbres: Teleported Captain_KMan to josephbres]
+[21:49:37] [Server thread/INFO]: josephbres has made the advancement [Getting an Upgrade]
+[21:49:54] [Server thread/INFO]: josephbres has made the advancement [Monster Hunter]
+[21:50:45] [Server thread/INFO]: josephbres lost connection: Disconnected
+[21:50:45] [Server thread/INFO]: josephbres left the game
+[21:50:51] [User Authenticator #4/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[21:50:51] [Server thread/INFO]: josephbres[/192.168.2.248:56491] logged in with entity id 3363 at (6728.064895684848, 80.0, 5103.644882066301)
+[21:50:51] [Server thread/INFO]: josephbres joined the game
+[21:51:33] [Server thread/INFO]: Captain_KMan was shot by Skeleton
+[21:51:48] [Server thread/INFO]: [josephbres: Teleported Captain_KMan to josephbres]
+[21:51:59] [Server thread/INFO]: Captain_KMan has made the advancement [Stone Age]
+[21:53:04] [Server thread/INFO]: josephbres was shot by Skeleton
+[21:53:14] [Server thread/INFO]: [josephbres: Teleported josephbres to Captain_KMan]
+[22:06:21] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:06:21] [Server thread/INFO]: Captain_KMan left the game
+[22:07:12] [User Authenticator #5/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[22:07:12] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56501] logged in with entity id 5325 at (5479.300000011921, 50.0, 5324.084518376686)
+[22:07:12] [Server thread/INFO]: Captain_KMan joined the game
+[22:08:31] [Server thread/INFO]: [josephbres: Teleported josephbres to Captain_KMan]
+[22:08:40] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[22:09:41] [Server thread/WARN]: Captain_KMan moved wrongly!
+[22:11:57] [Server thread/INFO]: [josephbres: Teleported josephbres to Captain_KMan]
+[22:13:35] [Server thread/WARN]: josephbres moved too quickly! -8.249711255288275,2.176759275064242,5.5734213141513465
+[22:19:09] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[22:21:17] [Server thread/WARN]: josephbres moved too quickly! 5.573831165732827,-6.001335979112142,-6.035050434602454
+[22:25:03] [Server thread/INFO]: [josephbres: Teleported josephbres to Captain_KMan]
+[22:27:28] [Server thread/INFO]: josephbres has made the advancement [A Seedy Place]
+[22:28:56] [Server thread/INFO]: [Captain_KMan: Set the time to 1000]
+[22:31:09] [Server thread/INFO]: <josephbres> 3271 6804
+[22:31:52] [Server thread/INFO]: [josephbres: Teleported Captain_KMan to josephbres]
+[22:32:09] [Server thread/INFO]: Captain_KMan burned to death
+[22:32:15] [Server thread/INFO]: [josephbres: Teleported Captain_KMan to josephbres]
+[22:32:57] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:32:57] [Server thread/INFO]: Captain_KMan left the game
+[22:33:24] [Server thread/INFO]: josephbres lost connection: Disconnected
+[22:33:24] [Server thread/INFO]: josephbres left the game
+[22:34:45] [User Authenticator #6/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[22:34:45] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56532] logged in with entity id 9440 at (3260.265261483062, 43.0, 6805.665353515158)
+[22:34:45] [Server thread/INFO]: Captain_KMan joined the game
+[22:34:52] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:34:52] [Server thread/INFO]: Captain_KMan left the game
+[22:36:26] [User Authenticator #7/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[22:36:26] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56534] logged in with entity id 9734 at (3261.300000011921, 42.143880930148704, 6806.389358697697)
+[22:36:26] [Server thread/INFO]: Captain_KMan joined the game
+[22:36:56] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:36:56] [Server thread/INFO]: Captain_KMan left the game
+[22:38:36] [User Authenticator #8/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[22:38:36] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56538] logged in with entity id 10036 at (3261.300000011921, 42.0, 6806.389358697697)
+[22:38:36] [Server thread/INFO]: Captain_KMan joined the game
+[22:38:59] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 3257.5, 41.0, 6805.5]
+[22:39:28] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 3257.5, 41.0, 6805.5]
+[22:40:11] [Server thread/INFO]: [Captain_KMan: Set the time to 1000]
+[22:41:24] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:41:24] [Server thread/INFO]: Captain_KMan left the game
+[22:41:33] [User Authenticator #9/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
+[22:41:33] [Server thread/INFO]: Captain_KMan[/192.168.2.248:56540] logged in with entity id 10620 at (3262.898472921653, 42.0, 6804.178288295139)
+[22:41:33] [Server thread/INFO]: Captain_KMan joined the game
+[22:41:44] [Server thread/INFO]: Captain_KMan was slain by Spider
+[22:41:53] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 3261.5, 41.0, 6794.5]
+[22:42:07] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
+[22:42:07] [Server thread/INFO]: Captain_KMan left the game

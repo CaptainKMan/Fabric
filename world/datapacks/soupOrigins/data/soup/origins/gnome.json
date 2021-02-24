@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:shulker_inventory",
+		"origins:slow_falling",
+		"origins:sprint_jump",
+		"origins:fresh_air",
+		"origins:claustrophobia",
+		"origins:vegetarian"
+	],
+	"icon": "minecraft:gold_ingot",
+	"impact": 1,
+	"name": "Griffen",
+	"description": "Griffens are amazing creatures that can soar threw the sky, they can use their large back to carry extra items."
+}
