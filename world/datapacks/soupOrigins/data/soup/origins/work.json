@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"origins:translucent",
+		"origins:phasing",
+		"origins:phantomize",
+		"origins:tailwind",
+		"origins:hotblooded",
+		"origins:flame_particles",
+		"origins:slow_falling",
+		"origins:invisibility",
+		"origins:light_armor",
+		"soup:water_skin",
+		"origins:hunger_over_time",
+		"origins:fragile"
+	],
+	"icon": "minecraft:bone_meal",
+	"impact": 3,
+	"name": "Wraith",
+	"description": "Some say Wraiths come to the surface to haunt and kill, I agree."
+}
