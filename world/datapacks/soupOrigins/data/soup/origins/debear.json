@@ -1,10 +1,15 @@
 {
 	"powers": [
-		"origins:fire_immunity",
-		"origins:nine_lives"
+		"origins:water_vulnerability",
+		"origins:strong_arms_break_speed",
+		"origins:light_armor",
+		"origins:natural_armor",
+		"origins:strong_arms",
+		"origins:cat_vision",
+		"origins:damage_from_snowballs"
 	],
-	"icon": "minecraft:magma_cream",
-	"impact": 3,
-	"name": "DeBear",
-	"description": "A demonic bear like species that was born in the darkest pits of hell"
+	"icon": "minecraft:creeper_head",
+	"impact": 2,
+	"name": "beada",
+	"description": "A toy made by the great Dr.Newton"
 }
