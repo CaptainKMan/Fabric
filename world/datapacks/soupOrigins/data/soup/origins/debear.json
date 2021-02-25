@@ -1,18 +1,6 @@
 {
 	"powers": [
 		"origins:fire_immunity",
-		"origins:water_vulnerability",		
-		"origins:translucent",
-		"origins:scare_creepers",
-		"origins:burning_wrath",
-		"origins:hotblooded",
-		"origins:phasing",
-		"origins:phantomize",
-		"soup:roar_of_the_fallen",
-		"origins:translucent",
-		"origins:carnivore",
-		"soup:skin_of_flames",
-		"origins:flame_particles",
 		"origins:nine_lives"
 	],
 	"icon": "minecraft:magma_cream",
