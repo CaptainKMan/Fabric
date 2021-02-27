@@ -1,11 +1,12 @@
 {
   "replace": true,
   "origins": [
-  "soup:demon",
+  "soup:debear",
   "soup:toy",
   "soup:wraith",
   "soup:kappa",
   "soup:stray",
+  "soup:gnome",
   "soup:wendigo",
   "soup:work"
   ]

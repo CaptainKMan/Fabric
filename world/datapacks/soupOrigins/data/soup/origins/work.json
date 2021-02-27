@@ -4,18 +4,18 @@
 		"origins:translucent",
 		"origins:phasing",
 		"origins:phantomize",
-		"soup:roar_of_the_fallen",
-		"soup:skin_of_flames",
-		"origins:burning_wrath",
-		"origins:carnivore",
-		"origins:scare_creepers",
-		"origins:water_vulnerability",
-		"origins:nine_lives"
+		"origins:tailwind",
 		"origins:hotblooded",
 		"origins:flame_particles",
+		"origins:slow_falling",
+		"origins:invisibility",
+		"origins:light_armor",
+		"soup:water_skin",
+		"origins:hunger_over_time",
+		"origins:fragile"
 	],
-	"icon": "minecraft:magma_cream",
+	"icon": "minecraft:bone_meal",
 	"impact": 3,
 	"name": "epiclol",
-	"description": "If this dosent work the server is so trash."
+	"description": "Some say Wraiths come to the surface to haunt and kill, I agree."
 }
