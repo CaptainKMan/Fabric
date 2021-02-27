@@ -1,0 +1,158 @@
+[17:43:57] [main/INFO]: Loading for game Minecraft 1.16.5
+[17:43:58] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[17:43:59] [main/INFO]: [FabricLoader] Loading 64 mods: fabric-renderer-api-v1@0.4.1+ca58154a7d, fallflyinglib@1.1.0, fabric-keybindings-v0@0.2.1+ca58154a7d, cardinal-components-block@2.7.12, fabricloader@0.11.1, fabric-structure-api-v1@1.1.4+ca58154a7d, fabric-containers-v0@0.1.11+9354966b7d, lithium@0.6.3, fabric-object-builder-api-v1@1.9.4+9354966b7d, fabric-dimensions-v1@2.0.6+9354966b7d, java@11, fabric-game-rule-api-v1@1.0.6+ca58154a7d, fabric-api-base@0.2.1+9354966b7d, fabric-rendering-data-attachment-v1@0.1.5+ca58154a7d, fabric-textures-v0@1.0.6+ca58154a7d, cardinal-components-item@2.7.12, fabric-rendering-fluids-v1@0.1.13+ca58154a7d, reach-entity-attributes@1.0.1, cardinal-components-level@2.7.12, fabric-blockrenderlayer-v1@1.1.5+ca58154a7d, fabric-lifecycle-events-v1@1.2.1+ca58154a7d, cardinal-components-chunk@2.7.12, fabric-renderer-registries-v1@2.2.1+ca58154a7d, cardinal-components-util@2.7.12, fabric-loot-tables-v1@1.0.2+ca58154a7d, cardinal-components-scoreboard@2.7.12, fabric@0.30.3+1.16, fabric-particles-v1@0.2.4+ca58154a7d, fabric-networking-v0@0.3.2+ca58154a7d, fabric-networking-blockentity-v0@0.2.8+ca58154a7d, minecraft@1.16.5, fabric-screen-handler-api-v1@1.1.5+9354966b7d, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.10+ca58154a7d, phosphor@0.7.1+build.11, fabric-screen-api-v1@1.0.0+c045166c7d, fabric-tool-attribute-api-v1@1.2.6+ca58154a7d, fabric-renderer-indigo@0.4.4+ca58154a7d, fabric-item-api-v1@1.2.1+ca58154a7d, fabric-events-interaction-v0@0.4.2+ca58154a7d, fabric-crash-report-info-v1@0.1.3+ca58154a7d, cardinal-components@2.7.12, fabric-entity-events-v1@1.0.3+ca58154a7d, origins@0.4.7, fabric-rendering-v0@1.1.2+ca58154a7d, fabric-key-binding-api-v1@1.0.4+9354966b7d, fabric-rendering-v1@1.5.1+ca58154a7d, cloth-config2@4.8.1, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.4.2+ca58154a7d, fabric-content-registries-v0@0.2.1+ca58154a7d, fabric-tag-extensions-v0@1.1.1+ca58154a7d, cardinal-components-world@2.7.12, fabric-biome-api-v1@3.1.1+ca58154a7d, cardinal-components-entity@2.7.12, fabric-registry-sync-v0@0.7.4+ca58154a7d, fabric-commands-v0@0.2.2+ca58154a7d, cardinal-components-base@2.7.12, fabric-mining-levels-v0@0.1.3+ca58154a7d, fabric-networking-api-v1@1.0.1+ca58154a7d, fabric-events-lifecycle-v0@0.2.1+ca58154a7d, fabric-models-v0@0.2.1+ca58154a7d, fabric-item-groups-v0@0.2.3+ca58154a7d, fabric-object-builders-v0@0.7.2+ca58154a7d
+[17:43:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Caleb/Desktop/Fabric/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[17:44:05] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-a[17:44:17] [main/INFO]: Origins is initializing. Have fun!
+[17:44:20] [main/INFO]:[17:44:28] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/class_1297;)V
+[17:44:28] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[17:44:28] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 0
+[17:44:28] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[17:44:28] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 1
+[17:44:28] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[17:44:28] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 2
+[17:44:28] [main/INFO]:       BeforeConstant found TypeInsn       [INSTANCEOF]
+[17:44:28] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[17:44:28] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 3
+in-4/ERROR]: Couldn't parse data file soup:kappa from soup:origins/kappa.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 11 column 3 path $.powers[8]
+	at net.minecraft.class_3518.method_15267(class_3518.java:495) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15276(class_3518.java:532) ~[intermediary-server.jar:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.lambda$prepare$1(MultiJsonDataLoader.java:57) ~[Origins-1.16.5-0.4.7.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.prepare(MultiJsonDataLoader.java:43) ~[Origins-1.16.5-0.4.7.jar:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.method_18789(MultiJsonDataLoader.java:19) ~[Origins-1.16.5-0.4.7.jar:?]
+	at net.minecraft.class_4080.method_18791(class_4080.java:11) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 11 column 3 path $.powers[8]
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:560) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:730) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$35$1.read(TypeAdapters.java:910) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15267(class_3518.java:493) ~[intermediary-server.jar:?]
+	... 13 more
+[17:44:26] [Worker-Main-6/ERROR]: Couldn't parse data file soup:test from soup:powers/test.json
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 3 path $.entity_action.effect
+	at net.minecraft.class_3518.method_15267(class_3518.java:495) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3518.method_15276(class_3518.java:532) ~[intermediary-server.jar:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.lambda$prepare$1(MultiJsonDataLoader.java:57) ~[Origins-1.16.5-0.4.7.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.prepare(MultiJsonDataLoader.java:43) ~[Origins-1.16.5-0.4.7.jar:?]
+	at io.github.apace100.origins.util.MultiJsonDataLoader.method_18789(MultiJsonDataLoader.java:19) ~[Origins-1.16.5-0.4.7.jar:?]
+	at net.minecraft.class_4080.method_18791(class_4080.java:11) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 3 path $.entity_action.effect
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:491) ~[server.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:739) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$35$1.read(TypeAdapters.java:910) ~[server.jar:?]
+	at net.minecraft.class_3518.method_15267(class_3518.java:493) ~[intermediary-server.jar:?]
+	... 13 more
+[17:44:26] [Worker-Main-5/INFO]: Loaded 7 recipes
+[17:44:27] [Worker-Main-5/INFO]: Loaded 927 advancements
+[17:44:27] [Worker-Main-5/ERROR]: There was a problem reading power file soup:steamy_blood (skipping): JsonSyntaxException: Expected status effect to be a json object.
+[17:44:27] [Worker-Main-5/INFO]: Finished loading powers from data files. Registry contains 57 powers.
+[17:44:27] [Worker-Main-5/INFO]: Finished loading origins from data files. Registry contains 18 origins.
+[17:44:27] [Worker-Main-5/INFO]: Trying to read layer file: origins:origin
+[17:44:27] [Worker-Main-5/INFO]: Trying to read layer file: origins:origin
+[17:44:27] [Worker-Main-5/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[17:44:30] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 3.823 ms
+[17:44:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:44:31] [Server thread/INFO]: Loading properties
+[17:44:31] [Server thread/INFO]: Default game type: SURVIVAL
+[17:44:31] [Server thread/INFO]: Generating keypair
+[17:44:31] [Server thread/INFO]: Starting Minecraft server on 192.168.2.17:25565
+[17:44:32] [Server thread/INFO]: Using default channel type
+[17:44:33] [Server thread/INFO]: Preparing level "world"
+[17:44:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:44:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:44:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:44:40] [Server thread/INFO]: Time elapsed: 5855 ms
+[17:44:40] [Server thread/INFO]: Done (7.035s)! For help, type "help"
+[17:46:57] [User Authenticator #1/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:46:57] [Server thread/INFO]: josephbres[/192.168.2.248:58707] logged in with entity id 113 at (48.364083283999975, 64.0, 336.41331128782195)
+[17:46:57] [Server thread/INFO]: josephbres joined the game
+[17:47:22] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[17:47:30] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:47:30] [Server thread/INFO]: josephbres left the game
+[18:40:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@25102af4[id=<null>,name=Captain_KMan,properties={},legacy=false] (/192.168.2.248:58721) lost connection: Disconnected
+[19:58:26] [User Authenticator #2/INFO]: UUID of player Duwang24534 is e4456993-9e40-49d0-936c-4eae16648431
+[19:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:hostility
+[19:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:current_identity
+[19:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:unlocked_identities
+[19:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:favorite_identities
+[19:58:26] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:ability
+[19:58:26] [Server thread/INFO]: Duwang24534[/192.168.2.248:58757] logged in with entity id 344 at (-92.30000001192093, 66.0, 299.4168813263995)
+[19:58:26] [Server thread/INFO]: Duwang24534 joined the game
+[19:58:27] [Server thread/INFO]: Duwang24534 lost connection: Disconnected
+[19:58:27] [Server thread/INFO]: Duwang24534 left the game
+[19:59:21] [User Authenticator #3/INFO]: UUID of player Duwang24534 is e4456993-9e40-49d0-936c-4eae16648431
+[19:59:21] [Server thread/INFO]: Duwang24534[/192.168.2.248:58760] logged in with entity id 413 at (-92.30000001192093, 66.0, 299.4168813263995)
+[19:59:21] [Server thread/INFO]: Duwang24534 joined the game
+[20:00:09] [Server thread/INFO]: Duwang24534 was slain by Zombie
+[20:00:42] [Server thread/INFO]: Duwang24534 lost connection: Disconnected
+[20:00:42] [Server thread/INFO]: Duwang24534 left the game
+[20:05:34] [User Authenticator #4/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[20:05:34] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:hostility
+[20:05:34] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:current_identity
+[20:05:34] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:unlocked_identities
+[20:05:34] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:favorite_identities
+[20:05:34] [Server thread/WARN]: Failed to deserialize component: unregistered key identity:ability
+[20:05:34] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:58763] logged in with entity id 679 at (143.55598674298247, 53.0, 498.2209191541527)
+[20:05:34] [Server thread/INFO]: TZAR_ELMO joined the game
+[20:05:35] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[20:05:35] [Server thread/INFO]: TZAR_ELMO left the game
+[20:05:45] [User Authenticator #5/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[20:05:46] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:58765] logged in with entity id 724 at (143.55598674298247, 53.0, 498.2209191541527)
+[20:05:46] [Server thread/INFO]: TZAR_ELMO joined the game
+[20:05:46] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[20:05:46] [Server thread/INFO]: TZAR_ELMO left the game
+[20:07:35] [User Authenticator #6/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[20:07:36] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:58768] logged in with entity id 753 at (143.55598674298247, 53.0, 498.2209191541527)
+[20:07:36] [Server thread/INFO]: TZAR_ELMO joined the game
+[20:10:01] [Server thread/INFO]: TZAR_ELMO has made the advancement [Monster Hunter]
+[20:17:31] [Server thread/INFO]: TZAR_ELMO has made the advancement [Acquire Hardware]
+[20:18:18] [Server thread/INFO]: TZAR_ELMO has made the advancement [Isn't It Iron Pick]
+[20:22:46] [Server thread/INFO]: TZAR_ELMO has made the advancement [Sweet Dreams]
+[20:23:26] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[20:23:26] [Server thread/INFO]: TZAR_ELMO left the game
+[21:00:02] [User Authenticator #7/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[21:00:02] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:58805] logged in with entity id 2896 at (99.9651472912441, 65.0, 472.23915380404696)
+[21:00:02] [Server thread/INFO]: TZAR_ELMO joined the game
+[21:12:38] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[21:12:38] [Server thread/INFO]: TZAR_ELMO left the game
+[22:03:12] [User Authenticator #8/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[22:03:13] [Server thread/INFO]: josephbres[/192.168.2.248:58826] logged in with entity id 4482 at (67.15838517165993, 68.0, 368.0227776307214)
+[22:03:13] [Server thread/INFO]: josephbres joined the game
+[22:11:18] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[22:34:06] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[22:36:19] [Server thread/INFO]: josephbres has made the advancement [Who is Cutting Onions?]
+[22:42:19] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[22:42:31] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[22:42:41] [Server thread/INFO]: josephbres lost connection: Disconnected
+[22:42:41] [Server thread/INFO]: josephbres left the game

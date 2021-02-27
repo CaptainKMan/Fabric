@@ -1,32 +1,155 @@
-[06:30:39] [User Authenticator #1/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[06:30:40] [Server thread/INFO]: josephbres[/192.168.2.248:58474] logged in with entity id 108 at (120.74226451181599, 62.57036451528872, 358.69999998807907)
-[06:30:40] [Server thread/INFO]: josephbres joined the game
-[06:30:55] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
-[06:31:06] [Server thread/INFO]: [josephbres: Gave 3 [item.origins.orb_of_origin] to josephbres]
-[06:31:27] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
-[06:32:00] [Server thread/INFO]: josephbres lost connection: Disconnected
-[06:32:00] [Server thread/INFO]: josephbres left the game
-[11:09:35] [User Authenticator #2/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
-[11:09:35] [Server thread/INFO]: GhostRaider121[/192.168.2.248:58558] logged in with entity id 409 at (60.39459525393574, 64.0, 339.27607932875566)
-[11:09:35] [Server thread/INFO]: GhostRaider121 joined the game
-[11:17:03] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
-[11:17:03] [Server thread/INFO]: GhostRaider121 left the game
-[15:33:23] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[15:33:23] [Server thread/INFO]: josephbres[/192.168.2.248:58662] logged in with entity id 1467 at (65.57984925808182, 68.0, 361.35897919440674)
-[15:33:23] [Server thread/INFO]: josephbres joined the game
-[15:33:32] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
-[15:34:23] [Server thread/INFO]: josephbres lost connection: Disconnected
-[15:34:23] [Server thread/INFO]: josephbres left the game
-[17:43:16] [Server thread/INFO]: Stopping the server
-[17:43:16] [Server thread/INFO]: Stopping server
-[17:43:16] [Server thread/INFO]: Saving players
-[17:43:16] [Server thread/INFO]: Saving worlds
-[17:43:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:43:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:43:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:54:24] [User Authenticator #9/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[07:54:24] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:59014] logged in with entity id 9317 at (112.04686667797371, 63.0, 439.3424429731358)
+[07:54:24] [Server thread/INFO]: TZAR_ELMO joined the game
+[07:56:28] [User Authenticator #10/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[07:56:28] [Server thread/INFO]: josephbres[/192.168.2.248:59017] logged in with entity id 9698 at (96.30000001192093, 61.38939318210893, 334.3404090792256)
+[07:56:28] [Server thread/INFO]: josephbres joined the game
+[07:58:49] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[07:58:55] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[07:59:18] [Server thread/INFO]: TZAR_ELMO has made the advancement [Suit Up]
+[08:04:01] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[08:14:53] [Server thread/INFO]: TZAR_ELMO has made the advancement [Not Today, Thank You]
+[08:15:06] [Server thread/INFO]: josephbres lost connection: Disconnected
+[08:15:06] [Server thread/INFO]: josephbres left the game
+[08:42:04] [Server thread/INFO]: Villager class_1646['Farmer'/12234, l='ServerLevel[world]', x=327.70, y=71.00, z=279.70] died, message: 'Farmer was slain by Zombie'
+[08:44:48] [Server thread/INFO]: TZAR_ELMO has made the advancement [Diamonds!]
+[08:46:00] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[08:46:00] [Server thread/INFO]: TZAR_ELMO left the game
+[08:49:10] [User Authenticator #11/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[08:49:11] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:59036] logged in with entity id 16760 at (420.8536891113498, 15.0, 261.56269711495605)
+[08:49:11] [Server thread/INFO]: TZAR_ELMO joined the game
+[08:49:36] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[08:49:36] [Server thread/INFO]: TZAR_ELMO left the game
+[08:49:38] [User Authenticator #12/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[08:49:38] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:59039] logged in with entity id 16996 at (420.304872338306, 15.0, 231.48610332056688)
+[08:49:38] [Server thread/INFO]: TZAR_ELMO joined the game
+[08:56:07] [User Authenticator #13/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[08:56:07] [Server thread/INFO]: josephbres[/192.168.2.248:59042] logged in with entity id 17849 at (63.44636692139076, 64.0, 328.0321386187265)
+[08:56:07] [Server thread/INFO]: josephbres joined the game
+[08:56:12] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[08:56:15] [Server thread/INFO]: [josephbres: Teleported josephbres to TZAR_ELMO]
+[08:56:47] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[09:00:18] [Server thread/INFO]: [josephbres: Teleported josephbres to TZAR_ELMO]
+[09:00:32] [Server thread/INFO]: [josephbres: Teleported josephbres to TZAR_ELMO]
+[09:00:41] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[09:00:41] [Server thread/INFO]: TZAR_ELMO left the game
+[09:00:55] [Server thread/INFO]: josephbres lost connection: Disconnected
+[09:00:55] [Server thread/INFO]: josephbres left the game
+[09:01:04] [User Authenticator #14/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[09:01:04] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:59046] logged in with entity id 19010 at (192.30000001192096, 67.0, 415.97701533407803)
+[09:01:04] [Server thread/INFO]: TZAR_ELMO joined the game
+[09:02:27] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[09:02:27] [Server thread/INFO]: TZAR_ELMO left the game
+[09:02:36] [User Authenticator #15/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[09:02:36] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:59048] logged in with entity id 19406 at (274.0432548210214, 70.0, 451.7919728705868)
+[09:02:36] [Server thread/INFO]: TZAR_ELMO joined the game
+[09:06:48] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[09:06:48] [Server thread/INFO]: TZAR_ELMO left the game
+[16:50:07] [User Authenticator #16/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[16:50:07] [Server thread/INFO]: GhostRaider121[/192.168.2.248:59210] logged in with entity id 20037 at (63.15218303015587, 66.49866291408908, 347.8875672149915)
+[16:50:07] [Server thread/INFO]: GhostRaider121 joined the game
+[16:50:14] [User Authenticator #17/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[16:50:14] [Server thread/INFO]: josephbres[/192.168.2.248:59212] logged in with entity id 20151 at (199.98354856271612, 69.0, 405.7392782626997)
+[16:50:14] [Server thread/INFO]: josephbres joined the game
+[16:50:23] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[16:51:44] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[16:51:56] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[16:54:12] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:03:47] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:07:28] [User Authenticator #18/INFO]: UUID of player Duwang24534 is e4456993-9e40-49d0-936c-4eae16648431
+[17:07:28] [Server thread/INFO]: Duwang24534[/192.168.2.248:59216] logged in with entity id 22997 at (-209.67853531617308, 72.0, 203.15436557571442)
+[17:07:28] [Server thread/INFO]: Duwang24534 joined the game
+[17:07:32] [Server thread/INFO]: <Duwang24534> yo joseph
+[17:07:35] [Server thread/INFO]: <josephbres> yea
+[17:07:36] [Server thread/INFO]: <Duwang24534> i need an orb of origin
+[17:07:39] [Server thread/INFO]: <josephbres> na
+[17:07:40] [Server thread/INFO]: <Duwang24534> i have calebs kit
+[17:07:45] [Server thread/INFO]: <josephbres> why
+[17:07:52] [Server thread/INFO]: <Duwang24534> bc i chose it before he fixed it
+[17:07:56] [Server thread/INFO]: <Duwang24534> lol
+[17:07:56] [Server thread/INFO]: <GhostRaider121> yours doesnt work
+[17:08:01] [Server thread/INFO]: <josephbres> yea
+[17:08:11] [Server thread/INFO]: <Duwang24534> wel can i be a human then
+[17:08:14] [Server thread/INFO]: <josephbres> na
+[17:08:26] [Server thread/INFO]: <Duwang24534> why are you such an asshole
+[17:08:32] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[17:08:39] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[17:08:49] [Server thread/INFO]: <josephbres> you literally cant even choose human
+[17:08:58] [Server thread/INFO]: <Duwang24534> well i dont wanna be calebs kit
+[17:09:22] [Server thread/INFO]: <josephbres> ¯\_(?)_/¯
+[17:09:26] [Server thread/INFO]: <josephbres> you choose it
+[17:09:33] [Server thread/INFO]: <Duwang24534> as a joke
+[17:09:37] [Server thread/INFO]: <josephbres> ¯\_(?)_/¯
+[17:09:51] [Server thread/INFO]: <Duwang24534> this is why i dont join vcs anymore
+[17:10:01] [Server thread/INFO]: <josephbres> bruh
+[17:10:15] [Server thread/INFO]: <josephbres> It is human is literally not an option on the server
+[17:10:24] [Server thread/INFO]: <Duwang24534> well give me something else
+[17:10:28] [Server thread/INFO]: <josephbres> na
+[17:10:31] [Server thread/INFO]: <Duwang24534> give me james' kit bc he doesnt even play on here
+[17:10:37] [Server thread/INFO]: <josephbres> he did yesterday
+[17:10:45] [Server thread/INFO]: <Duwang24534> for how long
+[17:10:52] [Server thread/INFO]: <Duwang24534> and he probably wont join back
+[17:10:54] [Server thread/INFO]: <josephbres> like 1-2 hours then we went to bed
+[17:11:28] [Server thread/INFO]: <Duwang24534> so i have to be calebs kit huh
+[17:11:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=72, z=299} class_2338{x=-168, y=70, z=298}
+[17:11:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=72, z=299} class_2338{x=-168, y=70, z=298}
+[17:11:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=72, z=298} class_2338{x=-167, y=70, z=297}
+[17:11:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=72, z=298} class_2338{x=-167, y=70, z=297}
+[17:11:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=72, z=298} class_2338{x=-167, y=70, z=297}
+[17:11:39] [Server thread/INFO]: <josephbres> until yours is fixed
+[17:11:48] [Server thread/INFO]: <josephbres> mine is also broken
+[17:11:54] [Server thread/INFO]: <Duwang24534> so what are you
+[17:11:59] [Server thread/INFO]: <josephbres> Tyler
+[17:12:04] [Server thread/INFO]: <josephbres> Tyler's kit
+[17:12:05] [Server thread/INFO]: <Duwang24534> can i be tyler
+[17:12:08] [Server thread/INFO]: <josephbres> no
+[17:12:15] [Server thread/INFO]: <GhostRaider121> do u really want to be me?
+[17:12:18] [Server thread/INFO]: <josephbres> I choose his cause is the closet to mine
+[17:12:21] [Server thread/INFO]: <Duwang24534> rather u than calev
+[17:12:25] [Server thread/INFO]: <josephbres> ¯\_(?)_/¯
+[17:12:31] [Server thread/INFO]: <Duwang24534> james is closer to mine than caleb
+[17:12:34] [Server thread/INFO]: <josephbres> no
+[17:12:39] [Server thread/INFO]: <josephbres> no not really
+[17:12:46] [Server thread/INFO]: <Duwang24534> who is then
+[17:12:50] [Server thread/INFO]: <josephbres> Caleb
+[17:13:15] [Server thread/INFO]: <Duwang24534> no i have weakness for no reason
+[17:13:24] [Server thread/INFO]: <Duwang24534> what is this kit
+[17:13:27] [Server thread/INFO]: <josephbres> dont be standing under something
+[17:13:50] [Server thread/INFO]: <Duwang24534> bruh can i just not have an origin
+[17:14:02] [Server thread/INFO]: <josephbres> no cause Human isnt a literal option
+[17:14:46] [Server thread/INFO]: <Duwang24534> can i have isaiahs
+[17:14:49] [Server thread/INFO]: <josephbres> no
+[17:14:50] [Server thread/INFO]: <Duwang24534> bc calebs is ass
+[17:14:55] [Server thread/INFO]: <Duwang24534> why cant u just let me choose
+[17:14:57] [Server thread/INFO]: <josephbres> its not that bad
+[17:15:00] [Server thread/INFO]: <Duwang24534> its ass
+[17:15:10] [Server thread/INFO]: Duwang24534 has made the advancement [A Seedy Place]
+[17:15:14] [Server thread/INFO]: <josephbres> dont be standing under something
+[17:15:16] [Server thread/INFO]: <Duwang24534> feather falling sucks
+[17:15:21] [Server thread/INFO]: <Duwang24534> clasutrophobia sucks
+[17:15:26] [Server thread/INFO]: <josephbres> ¯\_(?)_/¯
+[17:15:29] [Server thread/INFO]: <Duwang24534> and the shulker thing has no benfeit
+[17:15:33] [Server thread/INFO]: <Duwang24534> so just let me choose my kit
+[17:15:36] [Server thread/INFO]: <Duwang24534> u asshole
+[17:15:41] [Server thread/INFO]: <josephbres> bruh
+[17:15:48] [Server thread/INFO]: <josephbres> Calebs is the closet to yours
+[17:15:55] [Server thread/INFO]: <Duwang24534> thats not what i asked
+[17:16:01] [Server thread/INFO]: <josephbres> and no
+[17:16:26] [Server thread/INFO]: Duwang24534 has made the advancement [Stone Age]
+[17:16:48] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[17:16:48] [Server thread/INFO]: GhostRaider121 left the game
+[17:16:50] [Server thread/INFO]: [josephbres: Stopping the server]
+[17:16:50] [Server thread/INFO]: Stopping server
+[17:16:50] [Server thread/INFO]: Saving players
+[17:16:50] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:16:50] [Server thread/INFO]: josephbres left the game
+[17:16:50] [Server thread/INFO]: Saving worlds
+[17:16:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:16:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:16:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:16:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
