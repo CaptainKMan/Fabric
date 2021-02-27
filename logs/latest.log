@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [17:03:15] [main/INFO]: Loading for game Minecraft 1.16.5
 [17:03:15] [ForkJoinPool-1-worker-6/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
 - Unsupported root entry "$schema" at line 2 column 14
@@ -257,3 +258,37 @@ java.lang.NullPointerException: null
 [22:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [22:31:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 >>>>>>> 98db8449a19475acf772e190f15d51beccd8ffad
+=======
+[06:30:39] [User Authenticator #1/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[06:30:40] [Server thread/INFO]: josephbres[/192.168.2.248:58474] logged in with entity id 108 at (120.74226451181599, 62.57036451528872, 358.69999998807907)
+[06:30:40] [Server thread/INFO]: josephbres joined the game
+[06:30:55] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[06:31:06] [Server thread/INFO]: [josephbres: Gave 3 [item.origins.orb_of_origin] to josephbres]
+[06:31:27] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[06:32:00] [Server thread/INFO]: josephbres lost connection: Disconnected
+[06:32:00] [Server thread/INFO]: josephbres left the game
+[11:09:35] [User Authenticator #2/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[11:09:35] [Server thread/INFO]: GhostRaider121[/192.168.2.248:58558] logged in with entity id 409 at (60.39459525393574, 64.0, 339.27607932875566)
+[11:09:35] [Server thread/INFO]: GhostRaider121 joined the game
+[11:17:03] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[11:17:03] [Server thread/INFO]: GhostRaider121 left the game
+[15:33:23] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[15:33:23] [Server thread/INFO]: josephbres[/192.168.2.248:58662] logged in with entity id 1467 at (65.57984925808182, 68.0, 361.35897919440674)
+[15:33:23] [Server thread/INFO]: josephbres joined the game
+[15:33:32] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[15:34:23] [Server thread/INFO]: josephbres lost connection: Disconnected
+[15:34:23] [Server thread/INFO]: josephbres left the game
+[17:43:16] [Server thread/INFO]: Stopping the server
+[17:43:16] [Server thread/INFO]: Stopping server
+[17:43:16] [Server thread/INFO]: Saving players
+[17:43:16] [Server thread/INFO]: Saving worlds
+[17:43:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:43:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:43:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:43:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+>>>>>>> 9d53d2623de11e0cbeea9ade6c122a19724b08a2
