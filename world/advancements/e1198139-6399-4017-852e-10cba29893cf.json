@@ -371,6 +371,17 @@
     },
     "done": true
   },
+<<<<<<< HEAD
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-02-25 22:17:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2021-02-25 21:57:04 -0500"
+=======
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-25 21:57:04 -0500"
@@ -380,6 +391,7 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-02-25 22:17:23 -0500"
+>>>>>>> 9d53d2623de11e0cbeea9ade6c122a19724b08a2
     },
     "done": true
   },
