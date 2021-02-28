@@ -1,7 +1,14 @@
 {
 	"powers": [
 		"origins:water_vulnerability",
-		"origins:hotblooded"
+		"origins:hotblooded",	
+		"origins:translucent",
+		"origins:phasing",
+		"origins:phantomize",
+		"origins:burning_wrath",
+		"origins:nine_lives",
+		"origins:scare_creepers",
+		"origins:carnivore"
 	],
 	"icon": "minecraft:creeper_head",
 	"impact": 3,
