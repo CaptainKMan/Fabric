@@ -5,6 +5,8 @@
 		"origins:translucent",
 		"origins:fire_immunity",
 		"origins:flame_particles",
+		"soup:roar_of_the_fallen",
+		"soup:skin_of_flames",
 		"origins:phasing",
 		"origins:phantomize",
 		"origins:burning_wrath",
@@ -15,5 +17,5 @@
 	"icon": "minecraft:creeper_head",
 	"impact": 3,
 	"name": "beada",
-	"description": "A toy made by the great Dr.Newton"
+	"description": "Demon from the depths of hell."
 }
