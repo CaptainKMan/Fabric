@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-02-28 18:34:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-02-24 09:08:59 -0500"
@@ -182,6 +188,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-02-24 15:36:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2021-02-28 18:35:08 -0500"
     },
     "done": true
   },
@@ -825,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-02-28 18:34:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-24 09:37:48 -0500"
@@ -1092,6 +1110,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-02-24 09:36:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-02-28 18:38:59 -0500"
     },
     "done": true
   },
@@ -1650,6 +1674,12 @@
       "has_planks": "2021-02-24 17:11:20 -0500"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2021-02-28 18:34:37 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
