@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [21:14:26] [main/INFO]: Loading for game Minecraft 1.16.5
 [21:14:27] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
@@ -35,6 +36,25 @@ in-6/ERROR]: Couldn't parse data file soup:test from soup:powers/test.json
 [19:34:29] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 3
 in-11/ERROR]: Couldn't parse data file soup:test from soup:powers/test.json
 >>>>>>> Stashed changes
+=======
+[15:51:18] [main/INFO]: Loading for game Minecraft 1.16.5
+[15:51:19] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[15:51:19] [main/INFO]: [FabricLoader] Loading 64 mods: fallflyinglib@1.1.0, fabric-renderer-api-v1@0.4.1+ca58154a7d, fabric-keybindings-v0@0.2.1+ca58154a7d, cardinal-components-block@2.7.12, fabricloader@0.11.1, fabric-structure-api-v1@1.1.4+ca58154a7d, fabric-containers-v0@0.1.11+9354966b7d, lithium@0.6.3, fabric-object-builder-api-v1@1.9.4+9354966b7d, fabric-dimensions-v1@2.0.6+9354966b7d, java@11, fabric-game-rule-api-v1@1.0.6+ca58154a7d, fabric-api-base@0.2.1+9354966b7d, fabric-rendering-data-attachment-v1@0.1.5+ca58154a7d, fabric-textures-v0@1.0.6+ca58154a7d, cardinal-components-item@2.7.12, fabric-rendering-fluids-v1@0.1.13+ca58154a7d, reach-entity-attributes@1.0.1, cardinal-components-level@2.7.12, fabric-blockrenderlayer-v1@1.1.5+ca58154a7d, fabric-lifecycle-events-v1@1.2.1+ca58154a7d, cardinal-components-chunk@2.7.12, fabric-renderer-registries-v1@2.2.1+ca58154a7d, cardinal-components-util@2.7.12, fabric-loot-tables-v1@1.0.2+ca58154a7d, cardinal-components-scoreboard@2.7.12, fabric@0.30.3+1.16, fabric-particles-v1@0.2.4+ca58154a7d, fabric-networking-v0@0.3.2+ca58154a7d, fabric-networking-blockentity-v0@0.2.8+ca58154a7d, minecraft@1.16.5, fabric-screen-handler-api-v1@1.1.5+9354966b7d, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.10+ca58154a7d, phosphor@0.7.1+build.11, fabric-screen-api-v1@1.0.0+c045166c7d, fabric-tool-attribute-api-v1@1.2.6+ca58154a7d, fabric-renderer-indigo@0.4.4+ca58154a7d, fabric-item-api-v1@1.2.1+ca58154a7d, fabric-events-interaction-v0@0.4.2+ca58154a7d, fabric-crash-report-info-v1@0.1.3+ca58154a7d, cardinal-components@2.7.12, fabric-entity-events-v1@1.0.3+ca58154a7d, origins@0.4.7, fabric-rendering-v0@1.1.2+ca58154a7d, fabric-key-binding-api-v1@1.0.4+9354966b7d, fabric-rendering-v1@1.5.1+ca58154a7d, cloth-config2@4.8.1, autoconfig1u@3.2.2, fabric-resource-loader-v0@0.4.2+ca58154a7d, fabric-content-registries-v0@0.2.1+ca58154a7d, fabric-tag-extensions-v0@1.1.1+ca58154a7d, cardinal-components-world@2.7.12, fabric-biome-api-v1@3.1.1+ca58154a7d, cardinal-components-entity@2.7.12, fabric-registry-sync-v0@0.7.4+ca58154a7d, fabric-commands-v0@0.2.2+ca58154a7d, cardinal-components-base@2.7.12, fabric-mining-levels-v0@0.1.3+ca58154a7d, fabric-networking-api-v1@1.0.1+ca58154a7d, fabric-events-lifecycle-v0@0.2.1+ca58154a7d, fabric-models-v0@0.2.1+ca58154a7d, fabric-item-groups-v0@0.2.3+ca58154a7d, fabric-object-builders-v0@0.7.2+ca58154a7d
+[15:51:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Caleb/Desktop/Fabric/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[15:51:27] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-a[15:51:40] [main/INFO]: Origins is initializing. Have fun!
+[15:51:44] [main/INFO]:[15:51:51] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/class_1297;)V
+[15:51:51] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[15:51:51] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 0
+[15:51:51] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[15:51:51] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 1
+[15:51:51] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[15:51:51] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 2
+[15:51:51] [main/INFO]:       BeforeConstant found TypeInsn       [INSTANCEOF]
+[15:51:51] [main/INFO]:   BeforeConstant found CLASS constant: value = Lnet/minecraft/class_1309;, typeValue = Lnet/minecraft/class_1309;
+[15:51:51] [main/INFO]:     BeforeConstant found a matching constant value at ordinal 3
+in-5/ERROR]: Couldn't parse data file soup:test from soup:powers/test.json
+>>>>>>> 2b041069474f6f9687f12e98413eae23c3e4f5d1
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 3 path $.entity_action.effect
 	at net.minecraft.class_3518.method_15267(class_3518.java:495) ~[intermediary-server.jar:?]
 	at net.minecraft.class_3518.method_15276(class_3518.java:532) ~[intermediary-server.jar:?]
@@ -74,6 +94,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at net.minecraft.class_3518.method_15267(class_3518.java:493) ~[intermediary-server.jar:?]
 <<<<<<< Updated upstream
 	... 13 more
+<<<<<<< HEAD
 [21:14:54] [Worker-Main-6/ERROR]: Couldn't parse data file soup:kappa from soup:origins/kappa.json
 =======
 	... 12 more
@@ -179,3 +200,169 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
 >>>>>>> Stashed changes
+=======
+[15:51:50] [Worker-Main-5/INFO]: Loaded 7 recipes
+[15:51:51] [Worker-Main-5/INFO]: Loaded 927 advancements
+[15:51:51] [Worker-Main-5/ERROR]: There was a problem reading power file soup:steamy_blood (skipping): JsonSyntaxException: Expected status effect to be a json object.
+[15:51:51] [Worker-Main-5/INFO]: Finished loading powers from data files. Registry contains 57 powers.
+[15:51:51] [Worker-Main-5/INFO]: Finished loading origins from data files. Registry contains 19 origins.
+[15:51:51] [Worker-Main-5/INFO]: Trying to read layer file: origins:origin
+[15:51:51] [Worker-Main-5/INFO]: Trying to read layer file: origins:origin
+[15:51:51] [Worker-Main-5/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[15:51:54] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 3.877 ms
+[15:51:54] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:51:54] [Server thread/INFO]: Loading properties
+[15:51:54] [Server thread/INFO]: Default game type: SURVIVAL
+[15:51:54] [Server thread/INFO]: Generating keypair
+[15:51:55] [Server thread/INFO]: Starting Minecraft server on 192.168.2.17:25565
+[15:51:55] [Server thread/INFO]: Using default channel type
+[15:51:56] [Server thread/INFO]: Preparing level "world"
+[15:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[15:52:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:52:02] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:04] [Server thread/INFO]: Time elapsed: 6384 ms
+[15:52:04] [Server thread/INFO]: Done (7.476s)! For help, type "help"
+[15:59:25] [User Authenticator #1/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[15:59:26] [Server thread/INFO]: josephbres[/192.168.2.248:59999] logged in with entity id 120 at (65.57190432597024, 68.0, 365.3113916707124)
+[15:59:26] [Server thread/INFO]: josephbres joined the game
+[15:59:35] [Server thread/INFO]: [josephbres: Gave 3 [item.origins.orb_of_origin] to josephbres]
+[15:59:56] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[16:01:12] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[16:02:43] [Server thread/INFO]: Player josephbres chose Origin: soup:work, for layer: origins:origin
+[16:06:17] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[16:09:32] [Server thread/INFO]: [josephbres: Gave 1 [Netherite Axe] to josephbres]
+[16:11:29] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[16:11:43] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[16:22:05] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[16:22:08] [Server thread/INFO]: josephbres lost connection: Disconnected
+[16:22:08] [Server thread/INFO]: josephbres left the game
+[16:22:10] [User Authenticator #2/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[16:22:10] [Server thread/INFO]: josephbres[/192.168.2.248:60007] logged in with entity id 4555 at (69.7109451961551, 65.0, 324.684519941714)
+[16:22:10] [Server thread/INFO]: josephbres joined the game
+[16:38:44] [Server thread/INFO]: josephbres has made the advancement [Cover Me With Diamonds]
+[16:41:48] [Server thread/INFO]: josephbres has made the advancement [Spooky Scary Skeleton]
+[16:41:57] [Server thread/INFO]: josephbres fell from a high place
+[16:42:28] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[16:43:33] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[16:45:31] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[16:45:41] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:08:20] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[17:09:31] [Server thread/INFO]: [josephbres: Set the time to 13000]
+[17:30:26] [Server thread/INFO]: [josephbres: Gave 1 [Diamond Sword] to josephbres]
+[17:31:27] [Server thread/INFO]: josephbres was slain by Wither Skeleton
+[17:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[17:32:39] [Server thread/INFO]: josephbres was slain by Wither Skeleton
+[17:32:58] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[17:33:11] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:33:36] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:35:46] [Server thread/INFO]: josephbres was slain by Wither Skeleton
+[17:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4183ms or 83 ticks behind
+[17:36:07] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[17:36:24] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:37:28] [Server thread/INFO]: josephbres has made the advancement [Take Aim]
+[17:37:53] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:37:53] [Server thread/INFO]: josephbres left the game
+[17:37:55] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:37:55] [Server thread/INFO]: josephbres[/192.168.2.248:60040] logged in with entity id 13869 at (-99.18980968566994, 67.0, 91.69755703967999)
+[17:37:55] [Server thread/INFO]: josephbres joined the game
+[17:37:56] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:37:56] [Server thread/INFO]: josephbres left the game
+[17:37:57] [User Authenticator #4/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:37:58] [Server thread/INFO]: josephbres[/192.168.2.248:60042] logged in with entity id 13870 at (-99.18980968566994, 67.0, 91.69755703967999)
+[17:37:58] [Server thread/INFO]: josephbres joined the game
+[17:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[17:38:01] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:38:01] [Server thread/INFO]: josephbres left the game
+[17:38:01] [User Authenticator #5/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:38:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@33ac0ce0[id=e1198139-6399-4017-852e-10cba29893cf,name=josephbres,properties={textures=[com.mojang.authlib.properties.Property@33528f7d]},legacy=false] (/192.168.2.248:60044) lost connection: Disconnected
+[17:38:03] [User Authenticator #6/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:38:03] [Server thread/INFO]: josephbres[/192.168.2.248:60046] logged in with entity id 13877 at (-99.18980968566994, 67.0, 91.69755703967999)
+[17:38:03] [Server thread/INFO]: josephbres joined the game
+[17:41:10] [Server thread/INFO]: josephbres was slain by Wither Skeleton
+[17:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[17:41:33] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[17:42:11] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:44:07] [Server thread/INFO]: josephbres withered away whilst fighting Wither Skeleton
+[17:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2439ms or 48 ticks behind
+[17:44:27] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[17:44:42] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:45:15] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:45:38] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:45:58] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:46:44] [Server thread/INFO]: josephbres has made the advancement [Those Were the Days]
+[17:46:47] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:46:57] [Server thread/INFO]: josephbres has made the advancement [War Pigs]
+[17:46:59] [Server thread/INFO]: josephbres was slain by Piglin Brute
+[17:47:05] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[17:47:12] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:47:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6085ms or 121 ticks behind
+[17:47:24] [Server thread/WARN]: josephbres moved too quickly! 7.956104002974424,-0.010077667749257557,6.592009551446845
+[17:47:30] [Server thread/WARN]: josephbres moved too quickly! 8.630857617552593,0.0,-5.880969949915728
+[17:48:17] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:49:26] [Server thread/INFO]: josephbres has made the advancement [Hidden in the Depths]
+[17:50:33] [Server thread/INFO]: josephbres was slain by Piglin Brute
+[17:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[17:50:54] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:50:58] [Server thread/WARN]: josephbres moved too quickly! 6.70782746697158,0.010749542827142022,-7.572052694075802
+[17:53:12] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:53:16] [Server thread/INFO]: josephbres was slain by Piglin Brute
+[17:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[17:53:38] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[17:53:55] [Server thread/WARN]: josephbres moved too quickly! 5.142852443895748,0.0,-9.137359827975502
+[17:55:17] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[17:59:40] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:59:40] [Server thread/INFO]: josephbres left the game
+[18:16:15] [User Authenticator #7/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:16:16] [Server thread/INFO]: josephbres[/192.168.2.248:60065] logged in with entity id 17448 at (115.29536547393124, 82.0, -86.76241224537401)
+[18:16:16] [Server thread/INFO]: josephbres joined the game
+[18:16:48] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[18:17:05] [Server thread/WARN]: josephbres moved too quickly! -9.056770741099193,0.0,5.3611401767422535
+[18:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:17:43] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[18:21:45] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:21:45] [Server thread/INFO]: josephbres left the game
+[18:30:39] [User Authenticator #8/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:30:39] [Server thread/INFO]: josephbres[/192.168.2.248:60073] logged in with entity id 18184 at (62.69999998807907, 63.0, 365.97301872706487)
+[18:30:39] [Server thread/INFO]: josephbres joined the game
+[18:30:47] [User Authenticator #9/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:30:48] [Server thread/INFO]: GhostRaider121[/192.168.2.248:60075] logged in with entity id 18231 at (70.60784042896788, 64.0, 328.4337371950851)
+[18:30:48] [Server thread/INFO]: GhostRaider121 joined the game
+[18:33:38] [Server thread/INFO]: [josephbres: Gave 1 [Wither Skeleton Skull] to josephbres]
+[18:34:36] [Server thread/INFO]: GhostRaider121 has made the advancement [We Need to Go Deeper]
+[18:35:08] [Server thread/INFO]: GhostRaider121 has made the advancement [Cover Me With Diamonds]
+[18:38:59] [Server thread/INFO]: GhostRaider121 has made the advancement [A Terrible Fortress]
+[18:40:06] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:40:06] [Server thread/INFO]: GhostRaider121 left the game
+[18:40:42] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:40:42] [Server thread/INFO]: josephbres left the game
+[18:54:43] [User Authenticator #10/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:54:43] [Server thread/INFO]: josephbres[/192.168.2.248:60088] logged in with entity id 19569 at (77.63426418871732, 36.0, 45.40244349540309)
+[18:54:43] [Server thread/INFO]: josephbres joined the game
+[18:59:41] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:59:41] [Server thread/INFO]: josephbres left the game
+[20:33:16] [User Authenticator #11/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[20:33:16] [Server thread/INFO]: josephbres[/192.168.2.248:60140] logged in with entity id 20352 at (432.31709005172246, 32.875, -86.35193331160104)
+[20:33:16] [Server thread/INFO]: josephbres joined the game
+[20:41:27] [Server thread/INFO]: josephbres lost connection: Disconnected
+[20:41:27] [Server thread/INFO]: josephbres left the game
+[22:03:36] [Server thread/INFO]: Stopping the server
+[22:03:36] [Server thread/INFO]: Stopping server
+[22:03:36] [Server thread/INFO]: Saving players
+[22:03:36] [Server thread/INFO]: Saving worlds
+[22:03:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:03:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:03:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:03:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:03:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:03:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:03:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:03:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+>>>>>>> 2b041069474f6f9687f12e98413eae23c3e4f5d1

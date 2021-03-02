@@ -1,15 +1,23 @@
 {
 	"powers": [
 		"origins:water_vulnerability",
-		"origins:strong_arms_break_speed",
-		"origins:light_armor",
-		"origins:natural_armor",
-		"origins:strong_arms",
-		"origins:cat_vision",
-		"origins:damage_from_snowballs"
+		"origins:hotblooded",	
+		"origins:translucent",
+		"origins:fire_immunity",
+		"origins:flame_particles",
+		"soup:roar_of_the_fallen",
+		"soup:skin_of_flames",
+		"origins:phasing",
+		"origins:phantomize",
+		"soup:lava_legs",
+		"soup:lava_eyes",
+		"origins:burning_wrath",
+		"origins:nine_lives",
+		"origins:scare_creepers",
+		"origins:carnivore"
 	],
 	"icon": "minecraft:creeper_head",
-	"impact": 2,
+	"impact": 3,
 	"name": "beada",
-	"description": "A toy made by the great Dr.Newton"
+	"description": "Demon from the depths of hell."
 }
