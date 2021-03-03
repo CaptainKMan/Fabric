@@ -1,200 +1,345 @@
-[06:31:31] [User Authenticator #2/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[06:31:31] [Server thread/INFO]: josephbres[/192.168.2.248:60325] logged in with entity id 3684 at (63.31383167561196, 68.0, 364.28377473795086)
-[06:31:31] [Server thread/INFO]: josephbres joined the game
-[06:36:37] [Server thread/INFO]: [josephbres: The difficulty has been set to Hard]
-[06:40:05] [Server thread/INFO]: josephbres lost connection: Disconnected
-[06:40:05] [Server thread/INFO]: josephbres left the game
-[06:41:07] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[06:41:07] [Server thread/INFO]: josephbres[/192.168.2.248:60331] logged in with entity id 4871 at (71.79119635525032, 64.0, 325.28464727758325)
-[06:41:07] [Server thread/INFO]: josephbres joined the game
-[06:49:32] [Server thread/INFO]: josephbres lost connection: Disconnected
-[06:49:32] [Server thread/INFO]: josephbres left the game
-[15:30:50] [User Authenticator #4/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[15:30:50] [Server thread/INFO]: josephbres[/192.168.2.248:60513] logged in with entity id 5822 at (88.89080321905253, 20.0, 321.6936390216762)
-[15:30:50] [Server thread/INFO]: josephbres joined the game
-[15:34:57] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[15:35:45] [Server thread/WARN]: josephbres moved too quickly! 0.46144250848966806,-10.0,0.8173078213761187
-[15:35:56] [Server thread/INFO]: josephbres lost connection: Disconnected
-[15:35:56] [Server thread/INFO]: josephbres left the game
-[18:02:31] [User Authenticator #5/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[18:02:31] [Server thread/INFO]: josephbres[/192.168.2.248:60572] logged in with entity id 6388 at (79.30777694163783, 12.0, 361.83486373275196)
-[18:02:31] [Server thread/INFO]: josephbres joined the game
-[18:04:59] [User Authenticator #6/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
-[18:04:59] [Server thread/INFO]: GhostRaider121[/192.168.2.248:60575] logged in with entity id 6659 at (65.53165099799132, 38.0, 41.232350777455245)
-[18:04:59] [Server thread/INFO]: GhostRaider121 joined the game
-[18:05:25] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
-[18:09:44] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[18:15:42] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
-[18:21:02] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[18:26:32] [Server thread/INFO]: josephbres lost connection: Disconnected
-[18:26:32] [Server thread/INFO]: josephbres left the game
-[18:26:32] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
-[18:26:32] [Server thread/INFO]: GhostRaider121 left the game
-[18:33:50] [User Authenticator #7/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[18:33:50] [Server thread/INFO]: josephbres[/192.168.2.248:49673] logged in with entity id 10489 at (61.6058162506219, 68.0, 365.244297966817)
-[18:33:50] [Server thread/INFO]: josephbres joined the game
-[18:34:16] [Server thread/INFO]: [josephbres: Gave 1 [Diamond Ore] to josephbres]
-[18:37:31] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=74, y=68, z=363}
-[18:37:34] [Server thread/WARN]: josephbres moved wrongly!
-[18:42:43] [User Authenticator #8/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
-[18:42:43] [Server thread/INFO]: Shakboyz[/192.168.2.248:49704] logged in with entity id 11432 at (-194.5, 70.0, 173.5)
-[18:42:43] [Server thread/INFO]: Shakboyz joined the game
-[18:42:47] [Server thread/INFO]: <josephbres> SAM
-[18:43:03] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
-[18:43:18] [Server thread/INFO]: Shakboyz lost connection: Disconnected
-[18:43:18] [Server thread/INFO]: Shakboyz left the game
-[18:44:22] [User Authenticator #9/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
-[18:44:22] [Server thread/INFO]: Shakboyz[/192.168.2.248:49712] logged in with entity id 11699 at (34.06776890863874, 64.0, 330.3498071423386)
-[18:44:22] [Server thread/INFO]: Shakboyz joined the game
-[18:44:28] [Server thread/INFO]: <josephbres> hello?
-[18:44:35] [Server thread/INFO]: <Shakboyz> sorry my bro was on
-[18:44:44] [Server thread/INFO]: <josephbres> you need to mods to play on this server
-[18:44:49] [Server thread/INFO]: <Shakboyz> look at the skin he wears
-[18:44:51] [Server thread/INFO]: <Shakboyz> yeah
-[18:44:58] [Server thread/INFO]: <Shakboyz> where do I get the mods
-[18:45:04] [Server thread/INFO]: <josephbres> can you join VC?
-[18:45:13] [Server thread/INFO]: <Shakboyz> only for ten minutes but yeah
-[18:45:16] [Server thread/INFO]: <josephbres> ok
-[18:45:21] [Server thread/INFO]: <josephbres> disconnect join VC
-[18:45:23] [Server thread/INFO]: <Shakboyz> cool
-[18:45:27] [Server thread/INFO]: Shakboyz lost connection: Disconnected
-[18:45:27] [Server thread/INFO]: Shakboyz left the game
-[18:52:04] [Server thread/INFO]: josephbres has made the advancement [Sweet Dreams]
-[19:02:22] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[20:01:31] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
-[20:01:37] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
-[20:24:30] [Server thread/INFO]: josephbres lost connection: Disconnected
-[20:24:30] [Server thread/INFO]: josephbres left the game
-[20:46:13] [User Authenticator #10/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[20:46:13] [Server thread/INFO]: josephbres[/192.168.2.248:49780] logged in with entity id 23663 at (53.326207211570804, 62.5, 365.2713956797652)
-[20:46:13] [Server thread/INFO]: josephbres joined the game
-[20:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=86, y=72, z=-190} class_2338{x=87, y=70, z=-191}
-[20:50:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=171, y=70, z=-268} class_2338{x=176, y=71, z=-274}
-[20:52:40] [Server thread/INFO]: [josephbres: Set the time to 13000]
-[21:01:14] [Server thread/INFO]: [josephbres: Teleported josephbres to 67.5, 65.0, 350.5]
-[21:22:26] [Server thread/INFO]: josephbres lost connection: Disconnected
-[21:22:26] [Server thread/INFO]: josephbres left the game
-[21:29:35] [User Authenticator #11/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:29:35] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49794] logged in with entity id 29533 at (-197.5, 71.0, 180.5)
-[21:29:35] [Server thread/INFO]: Captain_KMan joined the game
-[21:29:36] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:29:36] [Server thread/INFO]: Captain_KMan left the game
-[21:29:44] [User Authenticator #12/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:29:44] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49795] logged in with entity id 29596 at (-197.5, 71.0, 180.5)
-[21:29:44] [Server thread/INFO]: Captain_KMan joined the game
-[21:29:44] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:29:44] [Server thread/INFO]: Captain_KMan left the game
-[21:29:55] [User Authenticator #13/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:29:55] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49798] logged in with entity id 29615 at (-197.5, 71.0, 180.5)
-[21:29:55] [Server thread/INFO]: Captain_KMan joined the game
-[21:29:55] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:29:55] [Server thread/INFO]: Captain_KMan left the game
-[21:30:14] [User Authenticator #14/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:30:14] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49800] logged in with entity id 29632 at (-197.5, 71.0, 180.5)
-[21:30:15] [Server thread/INFO]: Captain_KMan joined the game
-[21:30:15] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:30:15] [Server thread/INFO]: Captain_KMan left the game
-[21:30:21] [User Authenticator #15/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:30:21] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49801] logged in with entity id 29638 at (-197.5, 71.0, 180.5)
-[21:30:21] [Server thread/INFO]: Captain_KMan joined the game
-[21:30:21] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:30:21] [Server thread/INFO]: Captain_KMan left the game
-[21:30:41] [User Authenticator #16/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
-[21:30:41] [Server thread/INFO]: josephbres[/192.168.2.248:49803] logged in with entity id 29642 at (75.1945051577679, 77.02442408821369, 364.1801772392599)
-[21:30:41] [Server thread/INFO]: josephbres joined the game
-[21:31:13] [User Authenticator #17/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:31:14] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49806] logged in with entity id 29794 at (-197.5, 71.0, 180.5)
-[21:31:14] [Server thread/INFO]: Captain_KMan joined the game
-[21:31:14] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[21:31:14] [Server thread/INFO]: Captain_KMan left the game
-[21:32:40] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[21:33:21] [User Authenticator #18/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[21:33:21] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49809] logged in with entity id 30353 at (-197.5, 71.0, 180.5)
-[21:33:21] [Server thread/INFO]: Captain_KMan joined the game
-[21:33:29] [Server thread/INFO]: Player Captain_KMan chose Origin: soup:gnome, for layer: origins:origin
-[21:34:35] [Server thread/INFO]: [josephbres: Teleported josephbres to 67.5, 65.0, 350.5]
-[21:34:39] [Server thread/INFO]: [josephbres: Teleported Captain_KMan to josephbres]
-[21:35:11] [Server thread/INFO]: Captain_KMan has made the advancement [Suit Up]
-[21:35:14] [Server thread/INFO]: Captain_KMan has made the advancement [Cover Me With Diamonds]
-[21:35:30] [Server thread/INFO]: Captain_KMan has made the advancement [Isn't It Iron Pick]
-[21:35:43] [Server thread/INFO]: Captain_KMan has made the advancement [Stone Age]
-[21:39:08] [User Authenticator #19/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
-[21:39:08] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:49814] logged in with entity id 31552 at (235.865505610498, 74.0, 341.8440434344001)
-[21:39:08] [Server thread/INFO]: TZAR_ELMO joined the game
-[21:39:24] [Server thread/INFO]: [josephbres: Teleported TZAR_ELMO to josephbres]
-[21:39:41] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
-[21:39:41] [Server thread/INFO]: TZAR_ELMO left the game
-[21:40:13] [User Authenticator #20/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
-[21:40:13] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:49817] logged in with entity id 31752 at (51.358054193976905, 62.5, 365.8849961435037)
-[21:40:13] [Server thread/INFO]: TZAR_ELMO joined the game
-[21:40:23] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
-[21:40:23] [Server thread/INFO]: TZAR_ELMO left the game
-[21:40:38] [User Authenticator #21/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
-[21:40:39] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:49820] logged in with entity id 31796 at (71.48603038995903, 68.0, 363.9707302514418)
-[21:40:39] [Server thread/INFO]: TZAR_ELMO joined the game
-[21:40:48] [Server thread/INFO]: Captain_KMan has made the advancement [We Need to Go Deeper]
-[21:42:03] [Server thread/INFO]: TZAR_ELMO has made the advancement [We Need to Go Deeper]
-[21:44:29] [Server thread/WARN]: josephbres moved wrongly!
-[21:45:27] [Server thread/INFO]: Captain_KMan has made the advancement [A Seedy Place]
-[21:46:28] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[21:53:07] [Server thread/INFO]: TZAR_ELMO has made the advancement [What a Deal!]
-[21:53:43] [User Authenticator #22/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
-[21:53:43] [Server thread/INFO]: Shakboyz[/192.168.2.248:49825] logged in with entity id 35100 at (65.01755662762358, 68.0, 356.74441250236225)
-[21:53:43] [Server thread/INFO]: Shakboyz joined the game
-[21:53:48] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
-[21:53:52] [Server thread/INFO]: [josephbres: Set the time to 13000]
-[21:54:15] [Server thread/INFO]: Captain_KMan has made the advancement [Sweet Dreams]
-[21:54:42] [Server thread/INFO]: TZAR_ELMO has made the advancement [Best Friends Forever]
-[21:54:58] [Server thread/INFO]: Player Shakboyz chose Origin: soup:wendigo, for layer: origins:origin
-[21:55:16] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
-[21:55:16] [Server thread/INFO]: TZAR_ELMO left the game
-[21:55:36] [User Authenticator #23/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
-[21:55:36] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:49828] logged in with entity id 35685 at (339.0019713002703, 67.8500000178814, 109.19810584616086)
-[21:55:36] [Server thread/INFO]: TZAR_ELMO joined the game
-[21:56:11] [Server thread/INFO]: <Captain_KMan> e
-[21:57:06] [Server thread/INFO]: Shakboyz was slain by Zombie
-[21:57:16] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
-[21:57:34] [Server thread/INFO]: Captain_KMan has made the advancement [Monster Hunter]
-[21:58:37] [Server thread/INFO]: Shakboyz has made the advancement [Sweet Dreams]
-[21:59:56] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
-[21:59:56] [Server thread/INFO]: TZAR_ELMO left the game
-[22:01:11] [Server thread/INFO]: Shakboyz lost connection: Disconnected
-[22:01:11] [Server thread/INFO]: Shakboyz left the game
-[22:01:25] [Server thread/INFO]: [josephbres: Set the time to 1000]
-[22:03:16] [Server thread/INFO]: [Captain_KMan: Set the weather to rain]
-[22:03:37] [Server thread/INFO]: [Captain_KMan: Set the weather to clear]
-[22:06:45] [Server thread/INFO]: [Captain_KMan: Set the weather to rain]
-[22:07:05] [Server thread/WARN]: josephbres moved too quickly! -3.7398451247180233,-1.0849999962002101,-9.249112658613186
-[22:09:57] [Server thread/INFO]: [josephbres: Teleported josephbres to Captain_KMan]
-[22:10:34] [Server thread/INFO]: [josephbres: Teleported josephbres to 67.5, 65.0, 350.5]
-[22:12:04] [Server thread/INFO]: josephbres lost connection: Disconnected
-[22:12:04] [Server thread/INFO]: josephbres left the game
-[22:12:43] [Server thread/INFO]: [Captain_KMan: Teleported Captain_KMan to 162.5, 98.0, 107.5]
-[22:13:51] [Server thread/INFO]: Captain_KMan has made the advancement [Getting an Upgrade]
-[22:14:44] [Server thread/INFO]: [Captain_KMan: Set the weather to rain]
-[22:15:33] [Server thread/INFO]: [Captain_KMan: Set the time to 1000]
-[22:16:01] [Server thread/INFO]: Captain_KMan was slain by Spider
-[22:17:02] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[22:17:02] [Server thread/INFO]: Captain_KMan left the game
-[22:17:50] [User Authenticator #24/INFO]: UUID of player Captain_KMan is 882224fc-56c9-4e85-b012-905a93c1af2b
-[22:17:50] [Server thread/INFO]: Captain_KMan[/192.168.2.248:49836] logged in with entity id 41040 at (162.67987709920232, 98.0, 109.69999998807907)
-[22:17:50] [Server thread/INFO]: Captain_KMan joined the game
-[22:17:57] [Server thread/INFO]: [Captain_KMan: Saved the game]
-[22:18:09] [Server thread/INFO]: [Captain_KMan: Saved the game]
-[22:18:10] [Server thread/INFO]: Captain_KMan lost connection: Disconnected
-[22:18:10] [Server thread/INFO]: Captain_KMan left the game
-[22:18:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:18:38] [Server thread/INFO]: Saved the game
-[22:18:41] [Server thread/INFO]: Stopping the server
-[22:18:41] [Server thread/INFO]: Stopping server
-[22:18:41] [Server thread/INFO]: Saving players
-[22:18:41] [Server thread/INFO]: Saving worlds
-[22:18:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:18:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:18:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:18:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:18:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:18:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:18:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:18:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:18:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:17:12] [User Authenticator #2/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[06:17:13] [Server thread/INFO]: josephbres[/192.168.2.248:49997] logged in with entity id 300 at (79.40756486651973, 67.0, 352.9751583360957)
+[06:17:13] [Server thread/INFO]: josephbres joined the game
+[06:20:02] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[06:20:08] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[06:35:56] [Server thread/INFO]: josephbres lost connection: Disconnected
+[06:35:56] [Server thread/INFO]: josephbres left the game
+[15:12:56] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[15:12:56] [Server thread/INFO]: josephbres[/192.168.2.248:50175] logged in with entity id 2589 at (72.31564634120261, 68.0, 367.3614326912401)
+[15:12:56] [Server thread/INFO]: josephbres joined the game
+[15:25:39] [Server thread/INFO]: josephbres lost connection: Disconnected
+[15:25:39] [Server thread/INFO]: josephbres left the game
+[15:45:34] [User Authenticator #4/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[15:45:34] [Server thread/INFO]: Shakboyz[/192.168.2.248:50185] logged in with entity id 3945 at (97.40095450943811, 66.0, 359.54582962088625)
+[15:45:34] [Server thread/INFO]: Shakboyz joined the game
+[15:45:52] [Server thread/INFO]: Shakboyz burned to death
+[15:47:06] [Server thread/INFO]: <Shakboyz> burning in sunlight is annoying
+[15:47:29] [Server thread/INFO]: Shakboyz has made the advancement [Acquire Hardware]
+[15:48:13] [Server thread/INFO]: Shakboyz has made the advancement [Stone Age]
+[15:49:24] [Server thread/INFO]: Shakboyz has made the advancement [Isn't It Iron Pick]
+[15:50:57] [Server thread/INFO]: Shakboyz has made the advancement [Monster Hunter]
+[15:51:22] [Server thread/INFO]: Shakboyz was shot by Skeleton
+[15:52:22] [Server thread/INFO]: <Shakboyz> do I have some kind of ability where any mob I hit gets stuck in cobwebs?
+[15:52:27] [Server thread/INFO]: <Shakboyz> with a cool down?
+[15:55:13] [Server thread/INFO]: Shakboyz was shot by Skeleton
+[15:56:57] [User Authenticator #5/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[15:56:57] [Server thread/INFO]: josephbres[/192.168.2.248:50190] logged in with entity id 5233 at (77.01066852336857, 62.02987112887583, 345.7494445755892)
+[15:56:57] [Server thread/INFO]: josephbres joined the game
+[15:57:23] [Server thread/WARN]: josephbres moved wrongly!
+[16:00:44] [Server thread/INFO]: Shakboyz fell from a high place
+[16:01:44] [Server thread/INFO]: josephbres lost connection: Disconnected
+[16:01:44] [Server thread/INFO]: josephbres left the game
+[16:06:25] [Server thread/INFO]: Shakboyz was shot by Skeleton
+[16:06:40] [Server thread/INFO]: Shakboyz fell from a high place
+[16:08:43] [Server thread/INFO]: Shakboyz was shot by Skeleton
+[16:11:33] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[16:11:33] [Server thread/INFO]: Shakboyz left the game
+[16:15:43] [User Authenticator #6/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[16:15:43] [Server thread/INFO]: Shakboyz[/192.168.2.248:50199] logged in with entity id 6820 at (138.30000001192093, 29.0, 337.69999998807907)
+[16:15:43] [Server thread/INFO]: Shakboyz joined the game
+[16:16:32] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[16:16:32] [Server thread/INFO]: Shakboyz left the game
+[16:26:45] [User Authenticator #7/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[16:26:45] [Server thread/INFO]: josephbres[/192.168.2.248:50208] logged in with entity id 6913 at (86.27881502526198, 31.0, 337.38925724988025)
+[16:26:45] [Server thread/INFO]: josephbres joined the game
+[16:33:47] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[16:46:51] [Server thread/INFO]: josephbres was shot by Skeleton
+[17:03:09] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:06:49] [Server thread/INFO]: [josephbres: Teleported josephbres to 67.5, 65.0, 350.5]
+[17:16:13] [Server thread/WARN]: josephbres moved too quickly! 2.0617118577516464,-1.4199999868869781,-9.710742281511386
+[17:24:54] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:26:37] [User Authenticator #8/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[17:26:38] [Server thread/INFO]: GhostRaider121[/192.168.2.248:50229] logged in with entity id 14383 at (62.984805273808924, 68.0, 367.3610069950145)
+[17:26:38] [Server thread/INFO]: GhostRaider121 joined the game
+[17:42:48] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[17:43:19] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[17:43:53] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[17:44:54] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[17:45:36] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[17:46:37] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
+[17:46:45] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:49:48] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:49:48] [Server thread/INFO]: josephbres left the game
+[17:50:09] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[17:50:09] [Server thread/INFO]: GhostRaider121 left the game
+[17:52:22] [User Authenticator #9/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:52:22] [Server thread/INFO]: josephbres[/192.168.2.248:50240] logged in with entity id 19332 at (-32.77216222796274, 72.0, 309.10972846892423)
+[17:52:22] [Server thread/INFO]: josephbres joined the game
+[17:58:17] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[18:05:59] [User Authenticator #10/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:05:59] [Server thread/INFO]: GhostRaider121[/192.168.2.248:50248] logged in with entity id 20821 at (63.64414792331253, 68.42555702207365, 366.16222144376184)
+[18:05:59] [Server thread/INFO]: GhostRaider121 joined the game
+[18:07:40] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[18:08:48] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[18:09:09] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[18:09:55] [Server thread/INFO]: death.attack.hurt_by_water
+[18:11:14] [Server thread/INFO]: death.attack.hurt_by_water
+[18:12:06] [Server thread/WARN]: josephbres moved too quickly! 4.472016267519277,1.1451067006516382,-9.00728431517615
+[18:12:24] [Server thread/INFO]: josephbres suffocated in a wall
+[18:12:55] [Server thread/INFO]: GhostRaider121 has made the advancement [Take Aim]
+[18:13:14] [Server thread/INFO]: josephbres was shot by GhostRaider121
+[18:14:33] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:14:33] [Server thread/INFO]: GhostRaider121 left the game
+[18:14:37] [User Authenticator #11/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:14:37] [Server thread/INFO]: GhostRaider121[/192.168.2.248:50254] logged in with entity id 21940 at (86.57427530538186, 66.0, 351.5855538831806)
+[18:14:37] [Server thread/INFO]: GhostRaider121 joined the game
+[18:15:36] [Server thread/WARN]: GhostRaider121 moved wrongly!
+[18:18:22] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=65, y=68, z=372}
+[18:21:09] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:21:09] [Server thread/INFO]: josephbres left the game
+[18:21:12] [User Authenticator #12/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:21:13] [Server thread/INFO]: josephbres[/192.168.2.248:50257] logged in with entity id 22679 at (67.62967526449859, 80.0, 365.93710877897485)
+[18:21:13] [Server thread/INFO]: josephbres joined the game
+[18:21:24] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
+[18:21:52] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[18:22:06] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[18:22:26] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
+[18:22:34] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
+[18:23:40] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:23:40] [Server thread/INFO]: josephbres left the game
+[18:23:49] [User Authenticator #13/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:23:50] [Server thread/INFO]: josephbres[/192.168.2.248:50263] logged in with entity id 22959 at (64.42195332352233, 81.0, 365.69999998807907)
+[18:23:50] [Server thread/INFO]: josephbres joined the game
+[18:23:59] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[18:24:02] [Server thread/INFO]: Player josephbres chose Origin: soup:kappa, for layer: origins:origin
+[18:24:24] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:24:24] [Server thread/INFO]: josephbres left the game
+[18:24:28] [User Authenticator #14/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:24:28] [Server thread/INFO]: josephbres[/192.168.2.248:50265] logged in with entity id 23026 at (64.7439526285915, 80.0, 363.64261387115783)
+[18:24:28] [Server thread/INFO]: josephbres joined the game
+[18:24:37] [Server thread/INFO]: josephbres was slain by GhostRaider121
+[18:24:51] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[18:24:58] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[18:25:31] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:25:31] [Server thread/INFO]: GhostRaider121 left the game
+[18:25:45] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[18:25:55] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:25:55] [Server thread/INFO]: josephbres left the game
+[18:26:00] [User Authenticator #15/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:26:00] [Server thread/INFO]: josephbres[/192.168.2.248:50269] logged in with entity id 23218 at (66.35253199804632, 80.0, 365.4647162701424)
+[18:26:00] [Server thread/INFO]: josephbres joined the game
+[18:26:12] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[18:27:36] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[18:27:44] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[18:27:49] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:27:49] [Server thread/INFO]: josephbres left the game
+[19:18:44] [User Authenticator #16/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[19:18:44] [Server thread/INFO]: josephbres[/192.168.2.248:50320] logged in with entity id 23442 at (64.04357582871322, 74.0, 365.3764790140589)
+[19:18:44] [Server thread/INFO]: josephbres joined the game
+[19:20:10] [User Authenticator #17/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[19:20:10] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:50325] logged in with entity id 23649 at (425.57789904717293, 68.0, -105.25827717601436)
+[19:20:10] [Server thread/INFO]: TZAR_ELMO joined the game
+[19:20:21] [Server thread/INFO]: [josephbres: Teleported josephbres to TZAR_ELMO]
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -9.0397884634109,4.0,2.31159933017571
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -9.374898344877579,4.0,2.4785040439318067
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -9.71000839703703,4.0,2.6454122617087847
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -10.045118540530837,4.0,2.812322354417475
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -10.380228732895773,4.0,2.9792334503647453
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -10.714519509361764,4.0,3.1477689604758865
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -11.034602942573656,4.0,3.339707384859004
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -11.331344125350824,4.0,3.563043140291221
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -11.600892043035913,4.0,3.816806176485599
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -11.838958995681253,4.0,4.099184150876098
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.043929774540516,4.0,4.40608584945268
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.22126069300657,4.0,4.730671578632531
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.383386713678021,5.0,5.064894272848967
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.537376896692535,5.0,5.40427351491612
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.687013755187877,5.0,5.74641192292772
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.834321236529036,5.0,6.090026705624361
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.980382314597648,5.0,6.434431466979234
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.125776467125831,5.0,6.77925893016365
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.270382549246051,6.0,7.124492498016259
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.362542245366797,6.0,7.4826467184222025
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.375463401388913,6.0,7.844493108610692
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.327525731598143,6.0,8.203291398242335
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.246580476401675,6.0,8.56031082121767
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.147973520354867,6.0,8.916378408111989
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -13.039489109403746,6.0,9.27179295785961
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.925719469268529,6.0,9.62685808045019
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -12.80912180837305,6.0,9.981736231535862
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved wrongly! 2.337916548008998
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved wrongly! 2.7009147719710427
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved wrongly! 3.068494134244858
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.796609235019446,2.0,9.293823607279876
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.7555172083544903,2.0,9.66520593015111
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.7182969385031015,2.0,10.037311512622423
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.6831483685281228,2.0,10.409804096885502
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.649108323851749,2.0,10.782503758091373
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.6375007867430327,3.0,11.15585809601803
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.6663585984600218,3.0,11.526118728857618
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.7244155684451243,3.0,11.892995783423153
+[19:21:31] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! -3.7980964258510994,3.0,12.258062352715505
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.04981925243671981,-7.448942310437602,6.8246281694616755
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.11462640310131178,-7.738492209317357,7.017400104195929
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.18178405393479125,-8.0,7.203986146088781
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.3621280218654306,-8.0,7.496016313915419
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.5876492037132266,-8.076832001495362,7.769090231227281
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.7212847871396093,-8.227453458663007,7.926819877458286
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.853424699300831,-8.448942310437602,8.079096417604973
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 0.9842307717892993,-8.738492209317357,8.226509877605494
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.1138473260233468,-9.093407939109099,8.369586442606689
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.2424030678475333,-9.511101014130546,8.508795364536013
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.3700127771373332,-9.989085452684037,8.64455512227444
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.4967788145886516,-10.524973717900664,8.777238915298781
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.6227924654727417,-11.116472819326901,8.907179562912049
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.748135137996826,-11.761380568888328,9.034673873377201
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.8728794320022075,-12.457581985117116,9.159986540310797
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 1.9970900920292536,-13.203045839772017,9.283353617486881
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.1208248572606863,-13.995821341212164,9.404985617667208
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.2441352195011746,-14.83403494910921,9.525070276138138
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.367067099143412,-15.715887315296797,9.643775015232848
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.48966144799482,-16.63965034576232,9.76124914219237
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.613589209404438,-17.0,9.87908997020648
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.7253466937504527,-17.0,9.98455457931854
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.8275626807364347,-17.0,10.080316232666831
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 2.9382541028539038,-9.777446541336992,3.5417448453059563
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.0271248170220133,-9.786188141394234,3.6239354010664044
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.1113975759211314,-9.797941555941236,3.701450196315122
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.1920655378356457,-9.812056233083396,3.775299195268019
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.269907338872116,-9.828022140127743,3.846274209882168
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.345533429747178,-9.845439411437034,3.9149960207411567
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.4194224038298273,-9.863994552346995,3.98195131982979
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.491949478326916,-9.883441783037178,4.04752167366982
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.563408823533024,-9.903588412125472,4.112006230418757
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.634031068962514,-9.924283369566055,4.175639522235599
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.7039970281573744,-9.945408216441244,4.238605422335738
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.773448458936599,-9.966870096638182,4.301048087322172
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-9.988596210963308,4.363080535973367
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.010529484848021,4.42479137501293
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.032625171829878,4.486250072113222
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.054848190681781,4.5475110899301825
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.0771710377213,4.60861712718669
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.099572150061064,4.669601659682002
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.122034622397145,4.730490932443104
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.144545200971045,4.791305521571488
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.167093494835967,4.852061558730938
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.189671357489487,4.912771691146062
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.212272402073609,4.973332065282392
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.234891621291602,5.03025561544149
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.257525089422757,5.083137844961428
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.280169728701999,5.132805633606793
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.30282312616147,5.17995330056894
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.325483390034343,5.225125192102013
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.348149037175403,5.268748075675603
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.370818904798789,5.31115653699085
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.393492081280364,5.352612891241378
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.416167851906799,5.3933227935420405
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.438845656342835,5.433447477505297
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.46152505528562,5.473113350285189
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.484205704321717,5.512419515091949
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.506887333430981,5.551443668843589
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.529569730917622,5.590246725924715
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.552252730812135,5.628876443213571
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.57493620299443,5.667370262103262
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.597620045450348,5.705757536646416
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.62030417820079,5.744061280420652
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.642988538542149,5.782299536071079
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.665673077314779,5.820486449031662
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.688357755977535,5.858633109322824
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.711042544314147,5.8967482115206735
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.73372741863507,5.934838572173007
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8065248541484493,-10.75641236036769,5.972909535453368
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8243225721928127,-9.772546541336993,6.01096529119387
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.856073701391864,-9.772546541336993,6.049009124222948
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.8987643050992347,-9.772546541336993,6.087043609846134
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 3.950031456948892,-9.772546541336993,6.125070767102983
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.008022622642329,-9.772546541336993,6.16309217892055
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.071285415267823,-9.772546541336993,6.201109086313636
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.138681163469641,-9.772546541336993,6.239122462237887
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.209317148891586,-9.772546541336993,6.277133069490532
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.282493480331965,-9.772546541336993,6.315141506104595
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.3576614430804455,-9.772546541336993,6.353148240937998
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.434390844797775,-9.772546541336993,6.391153641575343
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.512344414684918,-9.772546541336993,6.429157996202946
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.591257732431501,-9.772546541336993,6.467161530758915
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.670923492511093,-9.772546541336993,6.505164422378712
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.751179167388557,-9.772546541336993,6.543166809936537
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.831897335474423,-9.772546541336993,6.581168802309776
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.912978098241098,-9.772546541336993,6.619170484858287
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 4.994343135241763,-9.772546541336993,6.657171924504212
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.075931043245191,-9.772546541336993,6.695173173714508
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.157693682117383,-9.772546541336993,6.733174273623263
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.239593309992756,-9.772546541336993,6.771175256479623
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.321600337248185,-9.772546541336993,6.8091761475668875
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.403691565618857,-9.772546541336993,6.847176966707181
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.763509386154169,-9.210588927832084,7.013231856538184
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.806524854148449,-8.774914152279159,7.151627012189564
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.822329918661751,-8.480914140596646,7.267417945102736
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.852229940114199,-8.27538852537667,7.377969431316387
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.894699844527281,-8.15483372217308,7.483848378828739
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 5.948379570887681,-8.1158848884183,7.585560356207182
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.012056216748846,-8.155310429247542,7.6835562295131155
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.084648115677709,-8.270006720892248,7.778238081111667
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.1651906375214764,-8.45699304302709,7.869964488066401
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.252647930063915,-8.713406711795905,7.959424447262293
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.345691189569152,-8.772546541336993,8.047949016956636
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.572097094467495,-8.772546541336993,8.225487826172781
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 6.830191142373252,-8.772546541336993,8.42789839074041
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.094523856629422,-8.772546541336993,8.656029134538471
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.331494510825507,-8.772546541336993,8.923584196278355
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.513350146863502,-8.772546541336993,9.231860562675607
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.638307623827501,-8.772546541336993,9.568655801553106
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.715609903197702,-8.772546541336993,9.922609437392566
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.7587583292491615,-8.772546541336993,10.286049252184469
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.783181168463301,-8.772546541336993,10.654569009387245
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.797133769712303,-8.772546541336993,11.02580985773183
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.8054839553801685,-8.772546541336993,11.398506707693684
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.8108364001707,-7.772546541336993,11.771982635091405
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.811720827095087,-7.772546541336993,12.145875431291927
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.812138011008159,-7.772546541336993,12.519993080469789
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.812555194921231,-7.772546541336993,12.894231043992733
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.812972378834303,-7.772546541336993,13.268533385322925
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.813389562747375,-7.772546541336993,13.642870173934227
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.813806746660447,-7.772546541336993,14.017225394598839
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.814223930573519,-7.772546541336993,14.391590477887675
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.814641114486591,-7.772546541336993,14.765960838470107
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.815058298399663,-7.772546541336993,15.140334022827119
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.815475482312735,-7.772546541336993,15.514708718129611
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.816625567499102,-7.210588927832092,16.194861056396817
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.816667285890418,-6.7477168268132175,16.576202518683857
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.8167090042817335,-6.380006453838035,16.93368835140741
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.816750722673049,-6.103689406254787,17.269899733073117
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.816749053935752,-5.915146510086274,17.58713861268616
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.815471949933567,-5.810901910577144,17.887410898814522
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.81365135633007,-5.787617396755394,18.172503814333936
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.811830762726572,-5.84208695074112,18.44405976675415
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.810010169123075,-5.97123151290252,18.70354345513458
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.808189575519577,-6.172093954311663,18.95226109813406
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.80636898191608,-6.441834248290888,19.191377581586096
+[19:22:06] [Server thread/WARN]: Horse (vehicle of josephbres) moved too quickly! 7.804548388312583,-6.777724833165891,19.42193175070696
+[19:25:15] [Server thread/WARN]: TZAR_ELMO moved too quickly! -6.189599409865508,-0.604424101326714,8.189899759092782
+[19:26:11] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[19:26:11] [Server thread/INFO]: TZAR_ELMO left the game
+[19:26:33] [User Authenticator #18/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[19:26:33] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:50328] logged in with entity id 25077 at (67.65854527646474, 68.0, 369.1933021122878)
+[19:26:33] [Server thread/INFO]: TZAR_ELMO joined the game
+[19:26:35] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[19:26:35] [Server thread/INFO]: TZAR_ELMO left the game
+[19:27:10] [User Authenticator #19/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[19:27:10] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:50333] logged in with entity id 25139 at (68.72151843972833, 68.0, 369.11826571557435)
+[19:27:10] [Server thread/INFO]: TZAR_ELMO joined the game
+[19:27:13] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[19:27:13] [Server thread/INFO]: TZAR_ELMO left the game
+[19:28:40] [User Authenticator #20/INFO]: UUID of player TZAR_ELMO is 034fb705-35e0-494f-9743-782c3272671d
+[19:28:40] [Server thread/INFO]: TZAR_ELMO[/192.168.2.248:50340] logged in with entity id 25310 at (64.8628474482386, 68.0, 363.9875925747431)
+[19:28:40] [Server thread/INFO]: TZAR_ELMO joined the game
+[19:31:56] [Server thread/INFO]: TZAR_ELMO has made the advancement [Cover Me With Diamonds]
+[19:32:55] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[19:38:34] [Server thread/INFO]: josephbres lost connection: Disconnected
+[19:38:34] [Server thread/INFO]: josephbres left the game
+[19:38:36] [Server thread/INFO]: TZAR_ELMO lost connection: Disconnected
+[19:38:36] [Server thread/INFO]: TZAR_ELMO left the game
+[19:49:38] [Server thread/INFO]: Stopping the server
+[19:49:38] [Server thread/INFO]: Stopping server
+[19:49:38] [Server thread/INFO]: Saving players
+[19:49:38] [Server thread/INFO]: Saving worlds
+[19:49:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:49:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:49:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:49:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:49:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:49:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:49:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:49:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:49:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
