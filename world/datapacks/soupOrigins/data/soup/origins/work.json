@@ -2,21 +2,16 @@
 	"powers": [
 		"origins:fire_immunity",
 		"origins:translucent",
-		"origins:phasing",
-		"origins:phantomize",
-		"origins:tailwind",
-		"origins:hotblooded",
-		"origins:flame_particles",
-		"origins:slow_falling",
-		"origins:invisibility",
-		"origins:light_armor",
-		"soup:roar_of_the_fallen",
-		"soup:skin_of_flames",
-		"origins:hunger_over_time",
-		"origins:fragile"
+		"origins:extra_reach",
+		"origins:pumpkin_hate",
+		"origins:water_vision",
+		"origins:arthropod",
+		"origins:webbing",
+		"origins:ender_particles"
+		
 	],
 	"icon": "minecraft:bone_meal",
 	"impact": 3,
-	"name": "epiclol",
-	"description": "XD NUZZLES POUNCES ON YOU UWU."
+	"name": "The Beast",
+	"description": "A monster created from the depths that is half human, half whatever."
 }
