@@ -10,8 +10,8 @@
 		"origins:ender_particles"
 		
 	],
-	"icon": "minecraft:bone_meal",
-	"impact": 3,
+	"icon": "minecraft:cooked_beef",
+	"impact": 2,
 	"name": "The Beast",
 	"description": "A monster created from the depths that is half human, half whatever."
 }
