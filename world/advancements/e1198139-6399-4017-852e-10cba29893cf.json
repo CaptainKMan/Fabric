@@ -631,6 +631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-03-02 17:04:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-27 18:56:15 -0500"
@@ -781,6 +787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-03-02 18:27:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-03-01 19:35:55 -0500"
@@ -814,6 +826,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-02-28 17:48:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-03-02 17:26:11 -0500"
     },
     "done": true
   },
@@ -856,6 +874,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-28 17:48:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-03-02 16:34:08 -0500"
     },
     "done": true
   },
@@ -1079,11 +1103,14 @@
     "criteria": {
       "minecraft:forest": "2021-02-28 11:46:16 -0500",
       "minecraft:mountains": "2021-03-01 20:48:33 -0500",
+      "minecraft:desert_hills": "2021-03-02 17:43:58 -0500",
       "minecraft:desert": "2021-02-28 16:13:54 -0500",
       "minecraft:birch_forest": "2021-02-28 11:57:48 -0500",
       "minecraft:savanna_plateau": "2021-03-01 21:33:16 -0500",
       "minecraft:dark_forest": "2021-03-01 20:49:25 -0500",
       "minecraft:river": "2021-02-27 19:38:38 -0500",
+      "minecraft:birch_forest_hills": "2021-03-02 17:47:27 -0500",
+      "minecraft:wooded_mountains": "2021-03-02 19:20:22 -0500",
       "minecraft:wooded_hills": "2021-02-28 10:20:33 -0500",
       "minecraft:swamp": "2021-03-01 20:49:51 -0500",
       "minecraft:savanna": "2021-02-28 10:01:12 -0500",
@@ -1253,6 +1280,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-01 18:37:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-03-02 17:04:05 -0500"
     },
     "done": true
   },
@@ -1493,6 +1526,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-02-28 11:24:36 -0500",
+      "chicken": "2021-03-02 17:04:30 -0500",
       "cooked_mutton": "2021-02-28 16:08:14 -0500",
       "cooked_beef": "2021-02-27 18:59:31 -0500",
       "beef": "2021-02-28 11:55:00 -0500",
@@ -1634,6 +1668,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2021-02-28 16:41:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-03-02 17:04:05 -0500"
     },
     "done": true
   },
@@ -2243,6 +2283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-02 16:34:08 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-02-28 09:51:15 -0500"
@@ -2288,6 +2334,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-02-28 09:52:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-03-02 17:26:11 -0500"
     },
     "done": true
   },
