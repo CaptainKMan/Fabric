@@ -1,0 +1,29 @@
+{
+  "type": "origins:stacking_status_effect",
+  "min_stacks": 0,
+  "max_stacks": 1,
+  "duration_per_stack": 700,
+  "effect":{
+	"effect": "minecraft:absorption",
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": false,
+	  "amplifier": 1
+  },
+  "condition":{
+	"type": "origins:and",
+	"conditions": [
+	{
+		"type": "origins:exposed_to_sun"
+	},
+	{
+		"type": "origins:status_effect",
+		"inverted": true,
+		"effect": "minecraft:absorption",
+		"max_amplifier": 1
+	}
+	]
+  },
+  "name": "Hail Solaire",
+  "description": "The Sun protects you from the evils of the deep by making you strong."
+}
