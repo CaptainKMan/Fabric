@@ -1,0 +1,86 @@
+[00:38:05] [User Authenticator #10/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[00:38:05] [Server thread/INFO]: josephbres[/192.168.2.248:52469] logged in with entity id 12616 at (181.54920299510496, 63.0, 269.5771008081234)
+[00:38:05] [Server thread/INFO]: josephbres joined the game
+[00:38:48] [Server thread/INFO]: josephbres lost connection: Disconnected
+[00:38:48] [Server thread/INFO]: josephbres left the game
+[08:13:33] [User Authenticator #11/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[08:13:33] [Server thread/INFO]: josephbres[/192.168.2.248:52616] logged in with entity id 12777 at (68.2560150898243, 68.0, 365.31973953079216)
+[08:13:33] [Server thread/INFO]: josephbres joined the game
+[08:17:58] [Server thread/INFO]: death.attack.hurt_by_water
+[08:18:04] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[08:18:58] [Server thread/INFO]: [josephbres: Teleported josephbres to 284.5, 110.79266437587441, -255.5]
+[08:21:54] [Server thread/INFO]: [josephbres: Set own game mode to Creative Mode]
+[08:22:30] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[08:22:31] [Server thread/INFO]: josephbres lost connection: Disconnected
+[08:22:31] [Server thread/INFO]: josephbres left the game
+[10:29:34] [User Authenticator #12/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[10:29:34] [Server thread/INFO]: josephbres[/192.168.2.248:52658] logged in with entity id 14980 at (39.28237618890307, 64.0, -350.29600798949633)
+[10:29:34] [Server thread/INFO]: josephbres joined the game
+[10:30:15] [User Authenticator #13/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[10:30:15] [Server thread/INFO]: GhostRaider121[/192.168.2.248:52662] logged in with entity id 15313 at (75.1374999880791, 81.0, 366.35012636665306)
+[10:30:15] [Server thread/INFO]: GhostRaider121 joined the game
+[10:30:27] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[10:31:34] [User Authenticator #14/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[10:31:34] [Server thread/INFO]: Shakboyz[/192.168.2.248:52665] logged in with entity id 15634 at (181.71911680036615, 63.0, 264.08301357842566)
+[10:31:34] [Server thread/INFO]: Shakboyz joined the game
+[10:32:06] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[10:34:01] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:34:11] [Server thread/INFO]: Shakboyz burned to death
+[10:34:15] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:37:12] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[10:38:32] [User Authenticator #15/INFO]: UUID of player Duwang24534 is e4456993-9e40-49d0-936c-4eae16648431
+[10:38:32] [Server thread/INFO]: Duwang24534[/192.168.2.248:52668] logged in with entity id 16989 at (214.80837726942391, 66.0, 208.47522802279974)
+[10:38:32] [Server thread/INFO]: Duwang24534 joined the game
+[10:38:47] [Server thread/INFO]: [josephbres: Gave 1 [Iron Pickaxe] to josephbres]
+[10:40:08] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[10:40:08] [Server thread/INFO]: GhostRaider121 left the game
+[10:42:16] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[10:42:17] [Server thread/INFO]: death.attack.hurt_by_water.player
+[10:43:09] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:43:18] [Server thread/INFO]: Duwang24534 was blown up by Creeper
+[10:43:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=363, y=71, z=314} class_2338{x=363, y=70, z=313}
+[10:47:21] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[10:47:23] [Server thread/INFO]: death.attack.hurt_by_water
+[10:47:31] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:47:50] [Server thread/INFO]: Shakboyz burned to death
+[10:47:56] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:48:14] [Server thread/INFO]: Shakboyz burned to death
+[10:48:17] [Server thread/INFO]: [josephbres: Teleported Shakboyz to josephbres]
+[10:49:00] [Server thread/INFO]: [josephbres: Applied effect Fire Resistance to Shakboyz]
+[10:50:17] [Server thread/INFO]: Duwang24534 lost connection: Disconnected
+[10:50:17] [Server thread/INFO]: Duwang24534 left the game
+[10:50:51] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[10:50:51] [Server thread/INFO]: Shakboyz left the game
+[10:50:51] [Server thread/WARN]: handleDisconnection() called twice
+[10:52:25] [Server thread/INFO]: josephbres lost connection: Disconnected
+[10:52:25] [Server thread/INFO]: josephbres left the game
+[15:29:08] [User Authenticator #16/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[15:29:09] [Server thread/INFO]: josephbres[/192.168.2.248:52769] logged in with entity id 21604 at (362.67963826568, 71.0, 304.50655333591266)
+[15:29:09] [Server thread/INFO]: josephbres joined the game
+[15:29:29] [Server thread/INFO]: josephbres lost connection: Disconnected
+[15:29:29] [Server thread/INFO]: josephbres left the game
+[18:00:30] [User Authenticator #17/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:00:30] [Server thread/INFO]: josephbres[/192.168.2.248:52823] logged in with entity id 21817 at (356.4183717363046, 70.0, 304.9385805983337)
+[18:00:30] [Server thread/INFO]: josephbres joined the game
+[18:01:19] [User Authenticator #18/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[18:01:20] [Server thread/INFO]: Shakboyz[/192.168.2.248:52824] logged in with entity id 22117 at (359.5735493864053, 70.0, 293.05260127318115)
+[18:01:20] [Server thread/INFO]: Shakboyz joined the game
+[18:01:25] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[18:05:16] [Server thread/INFO]: [josephbres: Applied effect Fire Resistance to Shakboyz]
+[18:11:47] [Server thread/INFO]: [josephbres: Set the weather to rain]
+[18:13:39] [Server thread/INFO]: [josephbres: Gave 1 [Iron Pickaxe] to josephbres]
+[18:23:59] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:23:59] [Server thread/INFO]: josephbres left the game
+[18:24:22] [Server thread/INFO]: Shakboyz lost connection: Timed out
+[18:24:22] [Server thread/INFO]: Shakboyz left the game
+[18:38:59] [User Authenticator #19/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:38:59] [Server thread/INFO]: josephbres[/192.168.2.248:52862] logged in with entity id 29202 at (6.164537713775553, 9.0, 955.6160987489868)
+[18:38:59] [Server thread/INFO]: josephbres joined the game
+[18:39:39] [User Authenticator #20/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[18:39:39] [Server thread/INFO]: Shakboyz[/192.168.2.248:52864] logged in with entity id 29436 at (411.30000001192093, 73.0, 365.09016720359)
+[18:39:39] [Server thread/INFO]: Shakboyz joined the game
+[18:45:43] [Server thread/INFO]: [josephbres: Teleported josephbres to Shakboyz]
+[18:46:47] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:46:47] [Server thread/INFO]: josephbres left the game
+[18:46:48] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[18:46:48] [Server thread/INFO]: Shakboyz left the game

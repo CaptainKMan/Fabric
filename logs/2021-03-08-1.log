@@ -1,0 +1,57 @@
+[16:54:07] [User Authenticator #21/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[16:54:07] [Server thread/INFO]: josephbres[/192.168.2.248:53278] logged in with entity id 31717 at (261.254131809172, 69.0, 313.58791752165877)
+[16:54:07] [Server thread/INFO]: josephbres joined the game
+[17:11:33] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:26:14] [Server thread/INFO]: josephbres has made the advancement [The Parrots and the Bats]
+[17:31:57] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[17:39:43] [User Authenticator #22/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[17:39:44] [Server thread/INFO]: GhostRaider121[/192.168.2.248:53315] logged in with entity id 36981 at (319.4074413016085, 64.70944457500623, 262.27171013553993)
+[17:39:44] [Server thread/INFO]: GhostRaider121 joined the game
+[17:40:02] [Server thread/INFO]: [josephbres: Teleported GhostRaider121 to josephbres]
+[17:41:11] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[17:44:59] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:46:37] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[17:50:39] [Server thread/INFO]: [josephbres: Applied effect Saturation to josephbres]
+[17:51:07] [Server thread/INFO]: [josephbres: Applied effect Saturation to josephbres]
+[17:51:40] [Server thread/INFO]: [josephbres: Applied effect Regeneration to josephbres]
+[17:55:53] [Server thread/INFO]: [josephbres: Applied effect Regeneration to josephbres]
+[17:56:05] [Server thread/INFO]: [josephbres: Applied effect Resistance to josephbres]
+[17:56:19] [Server thread/INFO]: [josephbres: Removed every effect from josephbres]
+[17:57:50] [Server thread/INFO]: [josephbres: Applied effect Resistance to josephbres]
+[17:58:23] [Server thread/INFO]: [josephbres: Removed every effect from josephbres]
+[18:02:09] [Server thread/INFO]: GhostRaider121 was slain by josephbres using [KillRaiders]
+[18:04:12] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[18:07:19] [Server thread/INFO]: [josephbres: Applied effect Invisibility to josephbres]
+[18:07:30] [Server thread/INFO]: [josephbres: Applied effect Invisibility to josephbres]
+[18:08:32] [Server thread/INFO]: josephbres was slain by GhostRaider121
+[18:08:39] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[18:09:25] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[18:09:51] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[18:09:54] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:09:54] [Server thread/INFO]: GhostRaider121 left the game
+[18:10:11] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:10:11] [Server thread/INFO]: josephbres left the game
+[18:10:48] [User Authenticator #23/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:10:48] [Server thread/INFO]: GhostRaider121[/192.168.2.248:53326] logged in with entity id 40943 at (219.30000001192093, 63.716933423633414, 198.4873319457541)
+[18:10:48] [Server thread/INFO]: GhostRaider121 joined the game
+[18:13:26] [User Authenticator #24/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:13:26] [Server thread/INFO]: josephbres[/192.168.2.248:53328] logged in with entity id 41370 at (205.1194785893135, 65.0, 208.94021714100816)
+[18:13:26] [Server thread/INFO]: josephbres joined the game
+[18:13:47] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[18:14:28] [Server thread/INFO]: death.attack.hurt_by_water
+[18:14:59] [Server thread/INFO]: [josephbres: Teleported josephbres to GhostRaider121]
+[18:15:42] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[18:16:32] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:16:32] [Server thread/INFO]: GhostRaider121 left the game
+[18:18:00] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:18:00] [Server thread/INFO]: josephbres left the game
+[18:18:15] [User Authenticator #25/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:18:15] [Server thread/INFO]: GhostRaider121[/192.168.2.248:53330] logged in with entity id 41983 at (68.55407668991451, 66.0, 393.40793917362555)
+[18:18:15] [Server thread/INFO]: GhostRaider121 joined the game
+[18:18:41] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:18:41] [Server thread/INFO]: GhostRaider121 left the game
+[18:19:43] [User Authenticator #26/INFO]: UUID of player GhostRaider121 is f7a5ee69-7427-442d-92b5-35ee5c50ba41
+[18:19:43] [Server thread/INFO]: GhostRaider121[/192.168.2.248:53332] logged in with entity id 42033 at (71.8789125022512, 66.0, 410.181245753485)
+[18:19:43] [Server thread/INFO]: GhostRaider121 joined the game
+[18:19:46] [Server thread/INFO]: GhostRaider121 lost connection: Disconnected
+[18:19:46] [Server thread/INFO]: GhostRaider121 left the game

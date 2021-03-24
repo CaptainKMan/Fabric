@@ -1,0 +1,59 @@
+[06:39:02] [User Authenticator #3/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[06:39:03] [Server thread/INFO]: josephbres[/192.168.2.248:52101] logged in with entity id 450 at (113.77627581401384, 65.0, 345.2336549653647)
+[06:39:03] [Server thread/INFO]: josephbres joined the game
+[06:39:24] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[06:55:37] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[06:58:40] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[06:58:47] [Server thread/INFO]: [josephbres: Set own game mode to Spectator Mode]
+[06:58:58] [Server thread/INFO]: [josephbres: Set own game mode to Survival Mode]
+[06:59:58] [Server thread/INFO]: josephbres lost connection: Disconnected
+[06:59:58] [Server thread/INFO]: josephbres left the game
+[16:14:46] [User Authenticator #4/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[16:14:46] [Server thread/INFO]: josephbres[/192.168.2.248:52272] logged in with entity id 2195 at (60.013132412208506, 68.0, 367.51762308168196)
+[16:14:47] [Server thread/INFO]: josephbres joined the game
+[16:45:51] [Server thread/INFO]: josephbres lost connection: Disconnected
+[16:45:51] [Server thread/INFO]: josephbres left the game
+[17:28:13] [User Authenticator #5/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[17:28:13] [Server thread/INFO]: josephbres[/192.168.2.248:52300] logged in with entity id 5086 at (187.06984430710006, 64.0, 333.4853719714427)
+[17:28:13] [Server thread/INFO]: josephbres joined the game
+[17:31:34] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[17:31:39] [Server thread/INFO]: josephbres has made the advancement [A Seedy Place]
+[17:38:39] [Server thread/INFO]: josephbres lost connection: Disconnected
+[17:38:39] [Server thread/INFO]: josephbres left the game
+[18:04:15] [User Authenticator #6/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[18:04:16] [Server thread/INFO]: josephbres[/192.168.2.248:52317] logged in with entity id 6749 at (56.26005718548121, 63.0, 388.2957613669105)
+[18:04:16] [Server thread/INFO]: josephbres joined the game
+[18:04:18] [Server thread/INFO]: josephbres lost connection: Disconnected
+[18:04:18] [Server thread/INFO]: josephbres left the game
+[21:19:47] [User Authenticator #7/INFO]: UUID of player josephbres is e1198139-6399-4017-852e-10cba29893cf
+[21:19:47] [Server thread/INFO]: josephbres[/192.168.2.248:52406] logged in with entity id 6778 at (56.26005718548121, 63.0, 388.2957613669105)
+[21:19:47] [Server thread/INFO]: josephbres joined the game
+[21:21:02] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[21:21:51] [User Authenticator #8/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[21:21:52] [Server thread/INFO]: Shakboyz[/192.168.2.248:52407] logged in with entity id 7054 at (56.54273970131782, 65.5, 367.69755169351015)
+[21:21:52] [Server thread/INFO]: Shakboyz joined the game
+[21:23:03] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[21:23:03] [Server thread/INFO]: Shakboyz left the game
+[21:23:58] [Server thread/INFO]: [josephbres: Gave 3 [Nether Wart] to josephbres]
+[21:24:17] [Server thread/INFO]: [josephbres: Gave 3 [Soul Sand] to josephbres]
+[21:26:52] [User Authenticator #9/INFO]: UUID of player Shakboyz is 412cfa73-3b79-46ab-ade7-7b5d06d4e8d5
+[21:26:52] [Server thread/INFO]: Shakboyz[/192.168.2.248:52411] logged in with entity id 7626 at (49.580074129360106, 62.5, 365.3023054001387)
+[21:26:52] [Server thread/INFO]: Shakboyz joined the game
+[21:31:22] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[21:31:28] [Server thread/INFO]: Player josephbres chose Origin: soup:wendigo, for layer: origins:origin
+[21:31:55] [Server thread/INFO]: [josephbres: Gave 1 [item.origins.orb_of_origin] to josephbres]
+[21:32:00] [Server thread/INFO]: Player josephbres chose Origin: soup:debear, for layer: origins:origin
+[21:34:21] [Server thread/INFO]: josephbres has made the advancement [Local Brewery]
+[21:37:22] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[21:39:36] [Server thread/INFO]: Shakboyz has made the advancement [Diamonds!]
+[21:44:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=68, z=370} class_2338{x=342, y=66, z=370}
+[21:47:28] [Server thread/INFO]: [josephbres: Set the time to 1000]
+[21:52:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=150, y=64, z=268} class_2338{x=151, y=62, z=269}
+[21:52:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=150, y=64, z=268} class_2338{x=151, y=62, z=269}
+[21:52:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=132, y=64, z=271} class_2338{x=129, y=61, z=271}
+[21:55:18] [Server thread/INFO]: Shakboyz burned to death
+[21:55:25] [Server thread/INFO]: Shakboyz lost connection: Disconnected
+[21:55:25] [Server thread/INFO]: Shakboyz left the game
+[21:57:00] [Server thread/INFO]: [josephbres: Set the weather to clear]
+[21:57:28] [Server thread/INFO]: josephbres lost connection: Disconnected
+[21:57:28] [Server thread/INFO]: josephbres left the game
